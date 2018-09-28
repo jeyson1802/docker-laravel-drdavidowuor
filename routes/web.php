@@ -15,31 +15,31 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::get('/contactotbjoshuaperu', function () {
+Route::get('/contactodrowuorperu', function () {
     return view('contact');
 });
 
-Route::get('/tbjoshuaperu', function () {
-    return view('tbjoshua');
+Route::get('/drowuorperu', function () {
+    return view('drowuor');
 });
 
-Route::get('/preguntastbjoshua', function () {
+Route::get('/preguntasdrowuor', function () {
     return view('questions');
 });
 
-Route::get('/programaciontbjoshuaperu', function () {
+Route::get('/programaciondrowuorperu', function () {
     return view('programmer');
 });
 
-Route::get('/conferenciadepastorestbjoshuaperu', function () {
+Route::get('/conferenciadepastoresdrowuorperu', function () {
     return view('conference');
 });
 
-Route::get('/hotelestbjoshuaperu', function () {
+Route::get('/hotelesdrowuorperu', function () {
     return view('hotels');
 });
 
-Route::get('/transportetbjoshuaperu', function () {
+Route::get('/transportedrowuorperu', function () {
     return view('hotels');
 });
 

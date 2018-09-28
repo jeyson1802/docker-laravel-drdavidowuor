@@ -3,7 +3,7 @@
 @section('title', 'Programación')
 
 @section('content')
-    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/tbjoshua.png)">
+    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">
         <!-- Subpage title start -->
         <div class="page-banner-title">
             <div class="text-center">
@@ -54,7 +54,7 @@
                                     <span class="schedule-slot-time">10:30 - 11:15AM</span>
                                     <div class="schedule-slot-info">
                                         <a href="#">
-                                            <img class="schedule-slot-speakers" src="images/speakers/tbjoshua.png" alt="" />
+                                            <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
                                             <h3 class="schedule-slot-speaker-name">Equipo de Alabanza</h3>
@@ -68,12 +68,12 @@
                                     <span class="schedule-slot-time">11:15 - 13:15PM</span>
                                     <div class="schedule-slot-info">
                                         <a href="#">
-                                            <img class="schedule-slot-speakers" src="images/speakers/tbjoshua.png" alt="" />
+                                            <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
-                                            <h3 class="schedule-slot-speaker-name">Tb. Joshua</h3>
+                                            <h3 class="schedule-slot-speaker-name">Dr. Owuor</h3>
                                             <h4 class="schedule-slot-title">El poder de la palabra</h4>
-                                            <p class="schedule-slot-desc">Tb. Joshua impartirá la importancia del poder de la palabra.</p>
+                                            <p class="schedule-slot-desc">Dr. Owuor impartirá la importancia del poder de la palabra.</p>
                                         </div><!--Info content end -->
                                     </div><!-- Slot info end -->
                                 </div><!-- Slot listing 3 end -->
@@ -92,12 +92,12 @@
                                     <span class="schedule-slot-time">14:35 - 16:00PM</span>
                                     <div class="schedule-slot-info">
                                         <a href="#">
-                                            <img class="schedule-slot-speakers" src="images/speakers/tbjoshua.png" alt="" />
+                                            <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
-                                            <h3 class="schedule-slot-speaker-name">Tb. Joshua</h3>
+                                            <h3 class="schedule-slot-speaker-name">Dr. Owuor</h3>
                                             <h4 class="schedule-slot-title">Sesión de Liberación</h4>
-                                            <p class="schedule-slot-desc">Tb. Joshua tendrá un sesión de liberación, sanidad y milagros.</p>
+                                            <p class="schedule-slot-desc">Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
                                         </div><!--Info content end -->
                                     </div><!-- Slot info end -->
                                 </div><!-- Slot listing 5 end -->

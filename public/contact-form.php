@@ -1,7 +1,7 @@
 <?php
 
 //Add your information here
-$recipient = "contacto@conferenciadepastorestbjoshuaperu.com";
+$recipient = "contacto@conferenciadepastoresdrowuorperu.com";
 
 //Don't edit anything below this line
 

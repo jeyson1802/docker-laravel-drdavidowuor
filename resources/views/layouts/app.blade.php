@@ -84,18 +84,18 @@
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Evento <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu" role="menu">
-                                    <li><a href="{{ url('conferenciadepastorestbjoshuaperu') }}">Conferencia</a></li>
-                                    <li><a href="{{ url('programaciontbjoshuaperu') }}">Programación</a></li>
-                                    <li><a href="{{ url('hotelestbjoshuaperu') }}">Hoteles</a></li>
-                                    <li><a href="{{ url('transportetbjoshuaperu') }}">Transporte</a></li>
+                                    <li><a href="{{ url('conferenciadepastoresdrowuorperu') }}">Conferencia</a></li>
+                                    <li><a href="{{ url('programaciondrowuorperu') }}">Programación</a></li>
+                                    <li><a href="{{ url('hotelesdrowuorperu') }}">Hoteles</a></li>
+                                    <li><a href="{{ url('transportedrowuorperu') }}">Transporte</a></li>
                                 </ul>
                             </li><!-- Evento li end -->
 
-                            <li><a href="{{ url('tbjoshuaperu') }}">Tb. Joshua</a></li><!-- Tb. Joshua li end -->
+                            <li><a href="{{ url('drowuorperu') }}">Dr. Owuor</a></li><!-- Dr. Owuor li end -->
 
-                            <li><a href="{{ url('preguntastbjoshua') }}">Preguntas Frecuentes</a></li><!-- Tb. Joshua li end -->
+                            <li><a href="{{ url('preguntasdrowuor') }}">Preguntas Frecuentes</a></li><!-- Dr. Owuor li end -->
 
-                            <li><a href="{{ url('contactotbjoshuaperu') }}">Contacto</a></li><!-- Tb. Joshua li end -->
+                            <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li><!-- Dr. Owuor li end -->
 
                             <li class="dropdown header-ticket">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-ticket"></i> Registro</a>
@@ -144,17 +144,17 @@
 
                     <div class="footer-menu">
                         <ul class="nav unstyled">
-                            <li><a href="{{ url('conferenciadepastorestbjoshuaperu') }}">Conferencia</a></li>
-                            <li><a href="{{ url('programaciontbjoshuaperu') }}">Programación</a></li>
-                            <li><a href="{{ url('tbjoshuaperu') }}">Tb. Joshua</a></li>
+                            <li><a href="{{ url('conferenciadepastoresdrowuorperu') }}">Conferencia</a></li>
+                            <li><a href="{{ url('programaciondrowuorperu') }}">Programación</a></li>
+                            <li><a href="{{ url('drowuorperu') }}">Dr. Owuor</a></li>
                             <li><a target="_blank" href="https://www.eventbrite.com.ar/e/entradas-evento-de-caridad-37379046735">Registro</a></li>
-                            <li><a href="{{ url('preguntastbjoshua') }}">Preguntas Frecuentes</a></li>
-                            <li><a href="{{ url('contactotbjoshuaperu') }}">Contacto</a></li>
+                            <li><a href="{{ url('preguntasdrowuor') }}">Preguntas Frecuentes</a></li>
+                            <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li>
                         </ul>
                     </div><!-- Footer menu end -->
 
                     <div class="copyright-info">
-                        <span>Copyright © 2017 Tb. Joshua Perú. All Rights Reserved.</span>
+                        <span>Copyright © 2017 Dr. Owuor Perú. All Rights Reserved.</span>
                     </div><!-- Copyright info end -->
 
                 </div><!-- Content col end -->

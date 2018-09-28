@@ -5,7 +5,7 @@
 @section('content')
 
     <section id="banner">
-        <div class="banner-item" style="background-image:url(images/hero-area/conferenciaportada.png)">
+        <div class="banner-item" style="background-image:url(images/hero-area/bg1.jpg)">
             <div class="container">
                 <div class="banner-content text-center">
                     <div class="countdown classic-style">
@@ -27,11 +27,11 @@
                         </div>
                     </div><!-- Countdown end -->
 
-                    <h1 class="banner-title">Conferencia de Pastores <br> profeta Tb. Joshua</h1>
+                    <h1 class="banner-title">Cruzada de Avivamiento y Sanidad <br> profeta Dr. Owuor</h1>
                     <h2 class="banner-desc">Lima - Perú, Fecha, 2017</h2>
                     <p class="banner-btn">
                         <a target="_blank" href="https://www.eventbrite.com.ar/e/entradas-evento-de-caridad-37379046735" class="btn btn-primary">Registrate Ahora</a>
-                        <a href="{{ url('conferenciadepastorestbjoshuaperu') }}" class="btn btn-border">Leer Más</a>
+                        <a href="{{ url('conferenciadepastoresdrowuorperu') }}" class="btn btn-border">Leer Más</a>
                     </p>
                 </div><!-- Banner content end -->
             </div><!-- Container end -->
@@ -42,15 +42,15 @@
         <div class="container">
 
             <div class="row text-center">
-                <h2 class="section-title">Conferencia de pastores</h2>
-                <p class="section-sub-title">Tb. Joshua</p>
+                <h2 class="section-title">Cruzada de avivamiento</h2>
+                <p class="section-sub-title">Dr. Owuor</p>
             </div><!--/ Title row end -->
 
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-6">
                     <div class="intro-video">
                         <img class="img-responsive" src="images/intro-video.jpg" alt="" />
-                        <a class="popup" href="https://www.youtube.com/embed/Ymg7OBqU-bI?autoplay=1&amp;loop=1">
+                        <a class="popup" href="https://www.youtube.com/embed/sYSIG2u6q14?autoplay=1&amp;loop=1">
                             <div class="video-icon">
                                 <i class="fa fa-play"></i>
                             </div>
@@ -85,21 +85,21 @@
                         <div class="tab-content">
                             <div class="tab-pane active animated fadeInRight" id="tab_a">
                                 <h3 class="tab-content-title">Sesión de Liberación </h3>
-                                <p class="sppb-cta-text">	El cuerpo de Cristo necesita ser liberado de toda opresión. En la conferencia de pastores por el profeta Tb. Joshua tendremos una sesión de liberación con poder. Seremos libres por el poder de Cristo nuestro Señor.
+                                <p class="sppb-cta-text">	El cuerpo de Cristo necesita ser liberado de toda opresión. En la cruzada de avivamiento por el profeta Dr. Owuor tendremos una sesión de liberación con poder. Seremos libres por el poder de Cristo nuestro Señor.
                                 </p>
                                 <blockquote>	El Espíritu del Señor está sobre mí, Por cuanto me ha ungido para dar buenas nuevas a los pobres; Me ha enviado a sanar a los quebrantados de corazón; A pregonar libertad a los cautivos, Y vista a los ciegos; A poner en libertad a los oprimidos - Lucas 4:18</blockquote>
                             </div><!-- Tab pane 1 end -->
 
                             <div class="tab-pane animated fadeInRight" id="tab_b">
                                 <h3 class="tab-content-title">Sesión de Sanidad</h3>
-                                <p>El profeta Tb. Joshua tendrá una sesión de oración por sanidad, cada pastor podrá ser libre de toda enfermdad que el enemigo haya querido poner sobre sus vidas, para así poder liberar al pueblo de Cristo.
+                                <p>El profeta Dr. Owuor tendrá una sesión de oración por sanidad, cada pastor podrá ser libre de toda enfermdad que el enemigo haya querido poner sobre sus vidas, para así poder liberar al pueblo de Cristo.
                                 <blockquote>		tomarán en las manos serpientes, y si bebieren cosa mortífera, no les hará daño; sobre los enfermos pondrán sus manos, y sanarán - Marcos 16:18</blockquote>
                                 </p>
                             </div><!-- Tab pane 2 end -->
 
                             <div class="tab-pane animated fadeInRight" id="tab_c">
                                 <h3 class="tab-content-title">Sesión de impartición</h3>
-                                <p>El profeta Tb. Joshua impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú.</p>
+                                <p>El profeta Dr. Owuor impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú.</p>
                                 <ul class="list-arrow">
                                     <li>Sanidad</li>
                                     <li>Liberación</li>
@@ -208,7 +208,7 @@
                                     <span class="schedule-slot-time">10:30 - 11:15AM</span>
                                     <div class="schedule-slot-info">
                                         <a href="#">
-                                            <img class="schedule-slot-speakers" src="images/speakers/tbjoshua.png" alt="" />
+                                            <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
                                             <h3 class="schedule-slot-speaker-name">Equipo de Alabanza</h3>
@@ -222,12 +222,12 @@
                                     <span class="schedule-slot-time">11:15 - 13:15PM</span>
                                     <div class="schedule-slot-info">
                                         <a href="#">
-                                            <img class="schedule-slot-speakers" src="images/speakers/tbjoshua.png" alt="" />
+                                            <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
-                                            <h3 class="schedule-slot-speaker-name">Tb. Joshua</h3>
+                                            <h3 class="schedule-slot-speaker-name">Dr. Owuor</h3>
                                             <h4 class="schedule-slot-title">El poder de la palabra</h4>
-                                            <p class="schedule-slot-desc">Tb. Joshua impartirá la importancia del poder de la palabra.</p>
+                                            <p class="schedule-slot-desc">Dr. Owuor impartirá la importancia del poder de la palabra.</p>
                                         </div><!--Info content end -->
                                     </div><!-- Slot info end -->
                                 </div><!-- Slot listing 3 end -->
@@ -246,12 +246,12 @@
                                     <span class="schedule-slot-time">14:35 - 16:00PM</span>
                                     <div class="schedule-slot-info">
                                         <a href="#">
-                                            <img class="schedule-slot-speakers" src="images/speakers/tbjoshua.png" alt="" />
+                                            <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
-                                            <h3 class="schedule-slot-speaker-name">Tb. Joshua</h3>
+                                            <h3 class="schedule-slot-speaker-name">Dr. Owuor</h3>
                                             <h4 class="schedule-slot-title">Sesión de Liberación</h4>
-                                            <p class="schedule-slot-desc">Tb. Joshua tendrá un sesión de liberación, sanidad y milagros.</p>
+                                            <p class="schedule-slot-desc">Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
                                         </div><!--Info content end -->
                                     </div><!-- Slot info end -->
                                 </div><!-- Slot listing 5 end -->
@@ -296,7 +296,7 @@
                     <div class="venu-info-content box1">
                         <span class="venu-info-icon"><i class="fa fa-map-marker"></i></span>
                         <h3 class="venu-info-title">Lugar</h3>
-                        <p class="venu-info-text">La conferencia de pastores se llevará a cabo en Lima - Perú, para mayor información contáctenos..</p>
+                        <p class="venu-info-text">La cruzada de avivamiento se llevará a cabo en Lima - Perú, para mayor información contáctenos..</p>
                         <a href="#" class="venu-info-link">Leer Más <i class="fa fa-angle-right"></i></a>
                     </div><!-- Venu content end -->
                 </div><!-- Col 1 end -->
@@ -345,7 +345,7 @@
         /* Event counter */
 
         $(".countdown").jCounter({
-            date: '10 December 2017 12:00:00',
+            date: '25 October 2018 12:00:00',
             fallback: function() { console.log("count finished!") }
         });
 
