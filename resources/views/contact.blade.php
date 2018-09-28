@@ -52,7 +52,8 @@
 
                 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
                     <h3 class="title-classic left">Contáctenos</h3>
-                    <form id="contact-form" action="contact-form.php" method="post" role="form">
+                    <form action="/invitado" method="post" role="form">
+                        {{ csrf_field() }}
                         <div class="error-container"></div>
                         <div class="row">
                             <div class="col-md-4">
@@ -72,13 +73,13 @@
                                 <div class="form-group">
                                     <label>Asunto</label>
                                     <input class="form-control form-control-subject" name="subject" id="subject"
-                                           placeholder="" required>
+                                           placeholder="">
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
                             <label>Mensaje</label>
-                            <textarea class="form-control form-control-message" name="message" id="message" placeholder="" rows="10" required></textarea>
+                            <textarea class="form-control form-control-message" name="message" id="message" placeholder="" rows="10"></textarea>
                         </div>
                         <div class="text-right"><br>
                             <button class="btn btn-primary solid blank" type="submit">Enviar</button>

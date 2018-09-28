@@ -6,11 +6,16 @@
     ================================================== -->
     <meta charset="utf-8">
 
+
+
+    
     <!-- Mobile Specific Metas
     ================================================== -->
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+
+    <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <!-- Site Title -->
     <title>@yield('title')</title>
@@ -92,8 +97,12 @@
 
                             <li><a href="{{ url('contactotbjoshuaperu') }}">Contacto</a></li><!-- Tb. Joshua li end -->
 
-                            <li class="header-ticket">
-                                <a target="_blank" class="ticket-btn btn-primary" href="https://www.eventbrite.com.ar/e/entradas-evento-de-caridad-37379046735"><i class="fa fa-ticket"></i> Registro</a>
+                            <li class="dropdown header-ticket">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-ticket"></i> Registro</a>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a href="{{ url('registroconferencia') }}">Conferencia</a></li>
+                                    <li><a href="{{ url('registrocruzada') }}">Cruzada</a></li>
+                                </ul>
                             </li>
 
                         </ul><!--/ Nav ul end -->

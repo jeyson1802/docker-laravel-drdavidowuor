@@ -35,3 +35,20 @@ Route::get('/conferenciadepastorestbjoshuaperu', function () {
     return view('conference');
 });
 
+Route::get('/hotelestbjoshuaperu', function () {
+    return view('hotels');
+});
+
+Route::get('/transportetbjoshuaperu', function () {
+    return view('hotels');
+});
+
+Route::get('/registroconferencia', function () {
+    return view('registroconferencia');
+});
+
+Route::get('/registrocruzada', function () {
+    return view('registrocruzada');
+});
+
+Route::resource('invitado', 'InvitadoController');
