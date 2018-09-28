@@ -3,11 +3,11 @@
 @section('title', 'Conferencia')
 
 @section('content')
-    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/tbjoshua.png)">
+    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">
         <!-- Subpage title start -->
         <div class="page-banner-title">
             <div class="text-center">
-                <h2>Conferencia</h2>
+                <h2>Cruzada</h2>
             </div>
         </div><!-- Subpage title end -->
     </div><!-- Page Banner end -->
@@ -18,10 +18,10 @@
 
                 <div class="col-md-6">
                     <h3 class="title-classic left">¿Qué sucederá en el evento?</h3>
-                    <p class="sppb-cta-text">	El cuerpo de Cristo necesita ser liberado de toda opresión. En la conferencia de pastores por el profeta Tb. Joshua tendremos una sesión de liberación con poder. Seremos libres por el poder de Cristo nuestro Señor.
+                    <p class="sppb-cta-text">	El cuerpo de Cristo necesita ser liberado de toda opresión. En la cruzada de avivamiento por el profeta Dr. Owuor tendremos una sesión de liberación con poder. Seremos libres por el poder de Cristo nuestro Señor.
                     </p>
                     <blockquote>El Espíritu del Señor está sobre mí, Por cuanto me ha ungido para dar buenas nuevas a los pobres; Me ha enviado a sanar a los quebrantados de corazón; A pregonar libertad a los cautivos, Y vista a los ciegos; A poner en libertad a los oprimidos - Lucas 4:18</blockquote>
-                    <p>El profeta Tb. Joshua impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú..</p>
+                    <p>El profeta Dr. Owuor impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú..</p>
                 </div><!-- Col end -->
 
                 <div class="col-md-6">
@@ -31,7 +31,7 @@
 						</span>
                         <div class="feature-box-content">
                             <h3 class="feature-title">Liberación</h3>
-                            <p>El cuerpo de Cristo necesita ser liberado de toda opresión. En la conferencia de pastores por el profeta Tb. Joshua tendremos una sesión de liberación con poder. Seremos libres por el poder de Cristo nuestro Señor.</p>
+                            <p>El cuerpo de Cristo necesita ser liberado de toda opresión. En la cruzada de avivamiento por el profeta Dr. Owuor tendremos una sesión de liberación con poder. Seremos libres por el poder de Cristo nuestro Señor.</p>
                         </div>
                     </div><!-- Feature box 1 end -->
 
@@ -41,7 +41,7 @@
 						</span>
                         <div class="feature-box-content">
                             <h3 class="feature-title">Sanidad</h3>
-                            <p>El profeta Tb. Joshua tendrá una sesión de oración por sanidad, cada pastor podrá ser libre de toda enfermdad que el enemigo haya querido poner sobre sus vidas, para así poder liberar al pueblo de Cristo.</p>
+                            <p>El profeta Dr. Owuor tendrá una sesión de oración por sanidad, cada pastor podrá ser libre de toda enfermdad que el enemigo haya querido poner sobre sus vidas, para así poder liberar al pueblo de Cristo.</p>
                         </div>
                     </div><!-- Feature box 2 end -->
 
@@ -51,7 +51,7 @@
 						</span>
                         <div class="feature-box-content">
                             <h3 class="feature-title">Impartición</h3>
-                            <p>El profeta Tb. Joshua impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú.</p>
+                            <p>El profeta Dr. Owuor impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú.</p>
                         </div>
                     </div><!-- Feature box 3 end -->
 

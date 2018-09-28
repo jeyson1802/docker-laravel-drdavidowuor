@@ -1874,13 +1874,13 @@ h4.panel-title a.collapsed:before {
 	position: relative;
 }
 
-.footer-pattern{
+/*.footer-pattern{
 	background: url(../images/footer-pattern.png) no-repeat 50% 50%;
 	position: absolute;
 	top: 0;
 	bottom: 0;
 	width: 100%;
-}
+}*/
 
 
 /* Footer social */
