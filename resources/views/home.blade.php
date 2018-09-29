@@ -5,7 +5,7 @@
 @section('content')
 
     <section id="banner">
-        <div class="banner-item" style="background-image:url(images/hero-area/bg1.jpg)">
+        <div class="banner-item" style="background-image:url(images/hero-area/portada_previa.png)">
             <div class="container">
                 <div class="banner-content text-center">
                     <div class="countdown classic-style">
