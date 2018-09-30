@@ -71,9 +71,9 @@
                                             <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
-                                            <h3 class="schedule-slot-speaker-name">Dr. Owuor</h3>
+                                            <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
                                             <h4 class="schedule-slot-title">El poder de la palabra</h4>
-                                            <p class="schedule-slot-desc">Dr. Owuor impartirá la importancia del poder de la palabra.</p>
+                                            <p class="schedule-slot-desc">Profeta Dr. Owuor impartirá la importancia del poder de la palabra.</p>
                                         </div><!--Info content end -->
                                     </div><!-- Slot info end -->
                                 </div><!-- Slot listing 3 end -->
@@ -95,9 +95,9 @@
                                             <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
-                                            <h3 class="schedule-slot-speaker-name">Dr. Owuor</h3>
+                                            <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
                                             <h4 class="schedule-slot-title">Sesión de Liberación</h4>
-                                            <p class="schedule-slot-desc">Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
+                                            <p class="schedule-slot-desc">Profeta Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
                                         </div><!--Info content end -->
                                     </div><!-- Slot info end -->
                                 </div><!-- Slot listing 5 end -->

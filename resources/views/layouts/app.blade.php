@@ -91,7 +91,7 @@
                                 </ul>
                             </li><!-- Evento li end -->
 
-                            <li><a href="{{ url('drowuorperu') }}">Dr. Owuor</a></li><!-- Dr. Owuor li end -->
+                            <li><a href="{{ url('drowuorperu') }}">Profeta Dr. Owuor</a></li><!-- Dr. Owuor li end -->
 
                             <li><a href="{{ url('preguntasdrowuor') }}">Preguntas Frecuentes</a></li><!-- Dr. Owuor li end -->
 
@@ -146,7 +146,7 @@
                         <ul class="nav unstyled">
                             <li><a href="{{ url('conferenciadepastoresdrowuorperu') }}">Conferencia</a></li>
                             <li><a href="{{ url('programaciondrowuorperu') }}">Programación</a></li>
-                            <li><a href="{{ url('drowuorperu') }}">Dr. Owuor</a></li>
+                            <li><a href="{{ url('drowuorperu') }}">Profeta Dr. Owuor</a></li>
                             <li><a target="_blank" href="https://www.eventbrite.com.ar/e/entradas-evento-de-caridad-37379046735">Registro</a></li>
                             <li><a href="{{ url('preguntasdrowuor') }}">Preguntas Frecuentes</a></li>
                             <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li>
@@ -154,7 +154,7 @@
                     </div><!-- Footer menu end -->
 
                     <div class="copyright-info">
-                        <span>Copyright © 2017 Dr. Owuor Perú. All Rights Reserved.</span>
+                        <span>Copyright © 2017 Profeta Dr. Owuor Perú. All Rights Reserved.</span>
                     </div><!-- Copyright info end -->
 
                 </div><!-- Content col end -->

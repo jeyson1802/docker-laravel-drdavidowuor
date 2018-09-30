@@ -5,7 +5,7 @@
 @section('content')
 
     <section id="banner">
-        <div class="banner-item" style="background-image:url(images/hero-area/portada_previa.png)">
+        <div class="banner-item" style="background-image:url(images/hero-area/prueba.jpeg)">
             <div class="container">
                 <div class="banner-content text-center">
                     <div class="countdown classic-style">
@@ -43,7 +43,7 @@
 
             <div class="row text-center">
                 <h2 class="section-title">Cruzada de avivamiento</h2>
-                <p class="section-sub-title">Dr. Owuor</p>
+                <p class="section-sub-title">Profeta Dr. Owuor</p>
             </div><!--/ Title row end -->
 
             <div class="row">
@@ -225,9 +225,9 @@
                                             <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
-                                            <h3 class="schedule-slot-speaker-name">Dr. Owuor</h3>
+                                            <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
                                             <h4 class="schedule-slot-title">El poder de la palabra</h4>
-                                            <p class="schedule-slot-desc">Dr. Owuor impartirá la importancia del poder de la palabra.</p>
+                                            <p class="schedule-slot-desc">Profeta Dr. Owuor impartirá la importancia del poder de la palabra.</p>
                                         </div><!--Info content end -->
                                     </div><!-- Slot info end -->
                                 </div><!-- Slot listing 3 end -->
@@ -249,9 +249,9 @@
                                             <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
                                         </a>
                                         <div class="schedule-slot-info-content">
-                                            <h3 class="schedule-slot-speaker-name">Dr. Owuor</h3>
+                                            <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
                                             <h4 class="schedule-slot-title">Sesión de Liberación</h4>
-                                            <p class="schedule-slot-desc">Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
+                                            <p class="schedule-slot-desc">Profeta Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
                                         </div><!--Info content end -->
                                     </div><!-- Slot info end -->
                                 </div><!-- Slot listing 5 end -->

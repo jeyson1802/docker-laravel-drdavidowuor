@@ -51,4 +51,4 @@ Route::get('/registrocruzada', function () {
     return view('registrocruzada');
 });
 
-Route::resource('invitado', 'InvitadoController');
+Route::resource('cruzada', 'CruzadaController');

@@ -1,13 +1,13 @@
 @extends('layouts.app')
 
-@section('title', 'Dr. Owuor')
+@section('title', 'Profeta Dr. Owuor')
 
 @section('content')
     <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">
         <!-- Subpage title start -->
         <div class="page-banner-title">
             <div class="text-center">
-                <h2>Dr. Owuor</h2>
+                <h2>Profeta Dr. Owuor</h2>
             </div>
         </div><!-- Subpage title end -->
     </div><!-- Page Banner end -->
@@ -24,10 +24,10 @@
 
                     <div class="col-xs-12 col-md-8">
                         <div class="ts-speaker-info">
-                            <h3 class="ts-speaker-name">Dr. Owuor</h3>
+                            <h3 class="ts-speaker-name">Profeta Dr. Owuor</h3>
                             <p class="ts-speaker-designation">Profeta</p>
                             <div class="ts-speaker-bio">
-                                <p>Dr. Owuor nació en 1966 en el Distrito Bondo en Kenia. Estudió en la Universidad de Makerere (Uganda), la Universidad de Nairobi, (Kenya); la Universidad Ben Gurion del Negev (Israel), Universidad de Haifa (Israel), y la Universidad de Giessen, Instituto de Genética, (Alemania). Se especializó en ingeniería genética molecular, el examen de la clonación de ADN y análisis de secuencias de nucleótidos para el diseño de médicos de la droga y el descubrimiento.</p>
+                                <p>Profeta Dr. Owuor nació en 1966 en el Distrito Bondo en Kenia. Estudió en la Universidad de Makerere (Uganda), la Universidad de Nairobi, (Kenya); la Universidad Ben Gurion del Negev (Israel), Universidad de Haifa (Israel), y la Universidad de Giessen, Instituto de Genética, (Alemania). Se especializó en ingeniería genética molecular, el examen de la clonación de ADN y análisis de secuencias de nucleótidos para el diseño de médicos de la droga y el descubrimiento.</p>
 
                                 <p>Al terminar su doctorado de Monte Carmelo, Haifa (Israel) Dr. Owuor se incorporó a la Universidad de Illinois en Chicago Medical Center (UIC), Centro de Biotecnología Farmacéutica como becario post doctoral especializada en la transducción de señales por el Cancer. Se unió al Departamento de Farmacia Ernesto Mario, Facultad de Farmacia de la Universidad Estatal de Nueva Jersey (Rutgers) y Salud Ambiental y Ocupacional del Instituto de Ciencias, (EOSHI) de la Universidad de Medicina y Odontología de Nueva Jersey (UMDNJ).</p>
                                     
