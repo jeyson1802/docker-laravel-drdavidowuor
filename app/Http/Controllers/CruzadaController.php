@@ -2,7 +2,9 @@
 
 namespace App\Http\Controllers;
 
+use Mail;
 use App\Cruzada;
+use App\Mail\MailRegistroCruzada;
 use Illuminate\Http\Request;
 
 class CruzadaController extends Controller
@@ -46,7 +48,11 @@ class CruzadaController extends Controller
         $cruzada->oracion = !empty($request->input("oracion")) ? $request->input("oracion") : "-";
         $cruzada->noticias = !empty($request->input("noticias")) ? $request->input("noticias") : "no";
         $cruzada->save();
-        return Cruzada::all();
+
+        $correo = $request->input("correo");
+        Mail::to($correo)->send(new MailRegistroCruzada($cruzada));
+
+        return view('registroconexito');
     }
 
     /**
