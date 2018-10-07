@@ -86,8 +86,8 @@
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="{{ url('conferenciadepastoresdrowuorperu') }}">Conferencia</a></li>
                                     <li><a href="{{ url('programaciondrowuorperu') }}">Programación</a></li>
-                                    <li><a href="{{ url('hotelesdrowuorperu') }}">Hoteles</a></li>
-                                    <li><a href="{{ url('transportedrowuorperu') }}">Transporte</a></li>
+                                    <li><a href="#">Hoteles</a></li>
+                                    <li><a href="#">Transporte</a></li>
                                 </ul>
                             </li><!-- Evento li end -->
 
@@ -135,9 +135,7 @@
                     <div class="footer-social">
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div><!-- Footer social end -->
@@ -147,14 +145,14 @@
                             <li><a href="{{ url('conferenciadepastoresdrowuorperu') }}">Conferencia</a></li>
                             <li><a href="{{ url('programaciondrowuorperu') }}">Programación</a></li>
                             <li><a href="{{ url('drowuorperu') }}">Profeta Dr. Owuor</a></li>
-                            <li><a target="_blank" href="https://www.eventbrite.com.ar/e/entradas-evento-de-caridad-37379046735">Registro</a></li>
+                            <li><a href="{{ url('registrocruzada') }}">Registro</a></li>
                             <li><a href="{{ url('preguntasdrowuor') }}">Preguntas Frecuentes</a></li>
                             <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li>
                         </ul>
                     </div><!-- Footer menu end -->
 
                     <div class="copyright-info">
-                        <span>Copyright © 2017 Profeta Dr. Owuor Perú. All Rights Reserved.</span>
+                        <span>Copyright © 2018 Profeta Dr. Owuor Perú. All Rights Reserved.</span>
                     </div><!-- Copyright info end -->
 
                 </div><!-- Content col end -->

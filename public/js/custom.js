@@ -68,10 +68,10 @@ jQuery(function($) {
 	/*  Counter
 	/* ----------------------------------------------------------- */
 
-		$('.counterUp').counterUp({
+		/*$('.counterUp').counterUp({
 		 delay: 10,
 		 time: 1000
-		});
+		});*/
 
 
 	

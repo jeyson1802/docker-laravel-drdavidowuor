@@ -40,7 +40,7 @@ Route::get('/hotelesdrowuorperu', function () {
 });
 
 Route::get('/transportedrowuorperu', function () {
-    return view('hotels');
+    return view('transport');
 });
 
 Route::get('/registroconferencia', function () {
@@ -52,3 +52,8 @@ Route::get('/registrocruzada', function () {
 });
 
 Route::resource('cruzada', 'CruzadaController');
+Route::resource('conferencia', 'ConferenciaController');
+
+Route::post('sendcontacto', 'ContactoController@sendMailContacto');
+Route::post('sendsuscription', 'ContactoController@sendSuscription');
+

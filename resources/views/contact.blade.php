@@ -5,12 +5,6 @@
 @section('content')
 
     <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">
-        <!-- Subpage title start -->
-        <div class="page-banner-title">
-            <div class="text-center">
-                <h2>Contacto</h2>
-            </div>
-        </div><!-- Subpage title end -->
     </div><!-- Banner end -->
 
     <section id="main-container" class="main-container">
@@ -34,7 +28,7 @@
                                 <i class="fa fa-envelope-o">&nbsp;</i>
                                 <div class="contact-info-box-content">
                                     <h4>E-mail</h4>
-                                    <p>contacto@cruzadadrowuorperu.com</p>
+                                    <p>contacto@arrepentimientoamericalatina.com</p>
                                 </div>
                             </div>
 
@@ -52,34 +46,34 @@
 
                 <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
                     <h3 class="title-classic left">Contáctenos</h3>
-                    <form action="/invitado" method="post" role="form">
+                    <form action="/sendcontacto" method="post" role="form">
                         {{ csrf_field() }}
                         <div class="error-container"></div>
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <label>Nombres</label>
-                                    <input class="form-control form-control-name" name="name" id="name" placeholder="" type="text" required>
+                                    <input class="form-control form-control-name" name="nombres" id="nombres" placeholder="" type="text" required>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <label>E-mail</label>
-                                    <input class="form-control form-control-email" name="email" id="email"
+                                    <input class="form-control form-control-email" name="correo" id="correo"
                                            placeholder="" type="email" required>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="form-group">
                                     <label>Asunto</label>
-                                    <input class="form-control form-control-subject" name="subject" id="subject"
+                                    <input class="form-control form-control-subject" name="asunto" id="asunto"
                                            placeholder="">
                                 </div>
                             </div>
                         </div>
                         <div class="form-group">
                             <label>Mensaje</label>
-                            <textarea class="form-control form-control-message" name="message" id="message" placeholder="" rows="10"></textarea>
+                            <textarea class="form-control form-control-message" name="mensaje" id="mensaje" placeholder="" rows="10"></textarea>
                         </div>
                         <div class="text-right"><br>
                             <button class="btn btn-primary solid blank" type="submit">Enviar</button>
@@ -99,13 +93,8 @@
 
 @push('scripts')
 
-    <!-- Counter -->
-    <script type="text/javascript" src="js/jquery.counterup.min.js"></script>
-    <!-- Countdown -->
-    <script type="text/javascript" src="js/jquery.jCounter.js"></script>
-
     <!-- Google Map -->
-    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM"></script>
+    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyD8nTg4zwDHEZYRnbNyUQnI78kshb31RoI"></script>
     <!-- Doc https://developers.google.com/maps/documentation/javascript/get-api-key -->
     <!-- For latitude and longitude use http://www.latlong.net/ -->
 
@@ -115,11 +104,11 @@
 
         /* Event map */
 
-        var eventmap = {lat: 40.742964, lng: -73.992277};
+        var eventmap = {lat: -12.0578722, lng: -77.0836102};
 
         $('.map')
             .gmap3({
-                zoom: 13,
+                zoom: 16,
                 center: eventmap,
                 mapTypeId : google.maps.MapTypeId.ROADMAP,
                 scrollwheel: false
@@ -131,7 +120,7 @@
 
             .infowindow({
                 position: eventmap,
-                content: "NYC Seminar and Conference Center, New York"
+                content: "Estadio San Marcos - Evento"
             })
 
             .then(function (infowindow) {

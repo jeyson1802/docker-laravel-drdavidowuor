@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
-    <title>Registro cruzada</title>
+    <title>Registro Conferencia</title>
 </head>
 <body>
-    <p>Hola! {{ $cruzada->nombres }} {{ $cruzada->apellidos }}</p>
-    <p>Sus datos han sido registrados para la cruzada con éxito.</p>
+    <p>Hola! {{ $conferencia->nombres }} {{ $conferencia->apellidos }}</p>
+    <p>Sus datos han sido registrados para la conferencia con éxito.</p>
 </body>
 </html>

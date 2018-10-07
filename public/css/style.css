@@ -1798,10 +1798,6 @@ h4.panel-title a.collapsed:before {
 .map {
     height: 450px;
     z-index: 1;
-    -webkit-filter: grayscale(1);
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    filter: gray;
 }
 
 
@@ -1836,7 +1832,6 @@ h4.panel-title a.collapsed:before {
     width: 100%;
     display: inline-block;
     font-size: 12px;
-    text-transform: capitalize;
     height: 50px;
     background: #000;
     background: rgba(0,0,0,.35);
@@ -2668,4 +2663,8 @@ label {
 ================================================== */
 .label-form {
     font-weight: bold;
+}
+
+.form-horizontal .control-label {
+    text-align: left;
 }

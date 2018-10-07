@@ -6,22 +6,23 @@ use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Contracts\Queue\ShouldQueue;
-use App\Cruzada;
 
-class MailRegistroCruzada extends Mailable
+use App\Conferencia;
+
+class MailRegistroConferencia extends Mailable
 {
     use Queueable, SerializesModels;
 
-    public $cruzada;
+    public $conferencia;
 
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct(Cruzada $cruzada)
+    public function __construct(Conferencia $conferencia)
     {
-        $this->cruzada = $cruzada;
+        $this->conferencia = $conferencia;
     }
 
     /**
@@ -31,6 +32,6 @@ class MailRegistroCruzada extends Mailable
      */
     public function build()
     {
-        return $this->subject('Registro Correcto - Cruzada')->view('mails.cruzada');
+        return $this->subject('Registro Correcto - Conferencia')->view('mails.conferencia');
     }
 }

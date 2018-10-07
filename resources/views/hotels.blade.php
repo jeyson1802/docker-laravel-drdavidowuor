@@ -4,14 +4,9 @@
 
 @section('content')
 
-    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">
-        <!-- Subpage title start -->
-        <div class="page-banner-title">
-            <div class="text-center">
-                <h2>Hoteles</h2>
-            </div>
-        </div><!-- Subpage title end -->
+    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">        
     </div><!-- Page Banner end -->
+    
     <section class="text-center text-sm-left well-sm section-border">
         <div class="container">
             <h1 class="text-bold text-center">Hoteles Afiliados</h1>

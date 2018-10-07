@@ -5,36 +5,7 @@
 @section('content')
 
     <section id="banner">
-        <div class="banner-item" style="background-image:url(images/hero-area/prueba.jpeg)">
-            <div class="container">
-                <div class="banner-content text-center">
-                    <div class="countdown classic-style">
-                        <div class="counter-day">
-                            <span class="days">00</span>
-                            <div class="smalltext">Días</div>
-                        </div>
-                        <div class="counter-hour">
-                            <span class="hours">00</span>
-                            <div class="smalltext">Horas</div>
-                        </div>
-                        <div class="counter-minute">
-                            <span class="minutes">00</span>
-                            <div class="smalltext">Minutos</div>
-                        </div>
-                        <div class="counter-second">
-                            <span class="seconds">00</span>
-                            <div class="smalltext">Segundos</div>
-                        </div>
-                    </div><!-- Countdown end -->
-
-                    <h1 class="banner-title">Cruzada de Avivamiento y Sanidad <br> profeta Dr. Owuor</h1>
-                    <h2 class="banner-desc">Lima - Perú, Fecha, 2017</h2>
-                    <p class="banner-btn">
-                        <a target="_blank" href="https://www.eventbrite.com.ar/e/entradas-evento-de-caridad-37379046735" class="btn btn-primary">Registrate Ahora</a>
-                        <a href="{{ url('conferenciadepastoresdrowuorperu') }}" class="btn btn-border">Leer Más</a>
-                    </p>
-                </div><!-- Banner content end -->
-            </div><!-- Container end -->
+        <div class="banner-item" style="background-image:url(images/hero-area/portada.jpg)">
         </div><!-- Banner item end -->
     </section><!-- Section banner end -->
 
@@ -273,9 +244,10 @@
             <div class="row">
                 <div class="newsletter-form clearfix">
                     <h3>Suscríbete para noticias</h3>
-                    <form action="#" method="post">
+                    <form action="/sendsuscription" method="post">
+                        {{ csrf_field() }}
                         <div class="form-group">
-                            <input type="email" name="email" id="newsletter-form-email" class="form-control form-control-lg" placeholder="E-mail aquí" autocomplete="off">
+                            <input type="email" name="correo" id="correo" class="form-control form-control-lg" placeholder="E-mail aquí">
                             <button class="btn btn-primary">Suscribirse</button>
                         </div>
                     </form>
@@ -328,13 +300,8 @@
 
 @push('scripts')
 
-    <!-- Counter -->
-    <script type="text/javascript" src="js/jquery.counterup.min.js"></script>
-    <!-- Countdown -->
-    <script type="text/javascript" src="js/jquery.jCounter.js"></script>
-
     <!-- Google Map -->
-    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyCsa2Mi2HqyEcEnM1urFSIGEpvualYjwwM"></script>
+    <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?key=AIzaSyD8nTg4zwDHEZYRnbNyUQnI78kshb31RoI"></script>
     <!-- Doc https://developers.google.com/maps/documentation/javascript/get-api-key -->
     <!-- For latitude and longitude use http://www.latlong.net/ -->
 
@@ -342,21 +309,13 @@
 
     <script type="text/javascript">
 
-        /* Event counter */
-
-        $(".countdown").jCounter({
-            date: '25 October 2018 12:00:00',
-            fallback: function() { console.log("count finished!") }
-        });
-
-
         /* Event map */
 
-        var eventmap = {lat: 40.742964, lng: -73.992277};
+        var eventmap = {lat: -12.0578722, lng: -77.0836102};
 
         $('.map')
             .gmap3({
-                zoom: 13,
+                zoom: 16,
                 center: eventmap,
                 mapTypeId : google.maps.MapTypeId.ROADMAP,
                 scrollwheel: false
@@ -368,7 +327,7 @@
 
             .infowindow({
                 position: eventmap,
-                content: "Lima, Perú"
+                content: "Estadio San Marcos - Evento"
             })
 
             .then(function (infowindow) {

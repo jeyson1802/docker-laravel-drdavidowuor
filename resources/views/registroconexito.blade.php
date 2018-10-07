@@ -3,13 +3,8 @@
 @section('title', 'Gracias')
 
 @section('content')
+
     <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">
-        <!-- Subpage title start -->
-        <div class="page-banner-title">
-            <div class="text-center">
-                <h2>Gracias</h2>
-            </div>
-        </div><!-- Subpage title end -->
     </div><!-- Page Banner end -->
 
     <section id="main-container" class="main-container">

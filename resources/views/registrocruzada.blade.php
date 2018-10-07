@@ -4,13 +4,7 @@
 
 @section('content')
 
-    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">
-        <!-- Subpage title start -->
-        <div class="page-banner-title">
-            <div class="text-center">
-                <h2>Registro Cruzada</h2>
-            </div>
-        </div><!-- Subpage title end -->
+    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">        
     </div><!-- Page Banner end -->
 
     <section id="main-container" class="main-container">
@@ -31,7 +25,7 @@
                                         <i class="fa fa-envelope-o">&nbsp;</i>
                                         <div class="contact-info-box-content">
                                             <h4>E-mail</h4>
-                                            <p>contacto@cruzadadrowuorperu.com</p>
+                                            <p>contacto@arrepentimientoamericalatina.com</p>
                                         </div>
                                     </div>
                 
@@ -51,53 +45,63 @@
                             <form id="form-registro-cruzada" class="form-horizontal" method="POST" action="/cruzada">
                                     {{ csrf_field() }}
                                     <div class="form-group">
-                                        <label class="control-label col-xs-3 label-form" for="nombres">Nombres:</label>
+                                        <label class="control-label col-xs-3 label-form" for="nombres">Nombres</label>
                                         <div class="col-xs-9">
                                             <input type="text" class="form-control" id="nombres" name="nombres" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="control-label col-xs-3 label-form" for="apellidos">Apellidos:</label>
+                                        <label class="control-label col-xs-3 label-form" for="apellidos">Apellidos</label>
                                         <div class="col-xs-9">
                                             <input type="text" class="form-control" id="apellidos" name="apellidos" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="control-label col-xs-3 label-form" for="correo">Correo:</label>
+                                        <label class="control-label col-xs-3 label-form" for="correo">Correo</label>
                                         <div class="col-xs-9">
                                             <input type="email" class="form-control" id="correo" name="correo" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="control-label col-xs-3 label-form" for="celular">Celular:</label>
+                                        <label class="control-label col-xs-3 label-form" for="celular">Celular</label>
                                         <div class="col-md-6 col-sm-6 col-xs-9">
                                             <input type="number" class="form-control" id="celular" name="celular" required>
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="control-label col-xs-3 label-form" for="facebook">Facebook:</label>
+                                        <label class="control-label col-xs-3 label-form" for="facebook">Facebook</label>
                                         <div class="col-xs-9">
                                                 <input type="url" class="form-control" id="facebook" name="facebook">
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                        <label class="control-label col-xs-3 label-form">País de Origen:</label>
+                                        <label class="control-label col-xs-3 label-form">País de Origen</label>
                                         <div class="col-md-6 col-sm-6 col-xs-9">
                                             <select class="form-control" id="pais" name="pais" required>
                                                 <option value="">Seleccione</option>
+                                                <option value="Argentina">Argentina</option>
+                                                <option value="Bolivia">Bolivia</option>
+                                                <option value="Brasil">Brasil</option>
+                                                <option value="Chile">Chile</option>
+                                                <option value="Colombia">Colombia</option>
+                                                <option value="Ecuador">Ecuador</option>
+                                                <option value="Guyana">Guyana</option>
+                                                <option value="Paraguay">Paraguay</option>
                                                 <option value="Perú">Perú</option>
+                                                <option value="Uruguay">Uruguay</option>
+                                                <option value="Venezuela">Venezuela</option>
                                                 <option value="Otro">Otro</option>
                                             </select>
                                         </div>                                        
                                     </div>       
                                     <div class="form-group">
-                                        <label class="control-label col-xs-3 label-form" for="iglesia">Nombre de Iglesia:</label>
+                                        <label class="control-label col-xs-3 label-form" for="iglesia">Nombre de Iglesia</label>
                                         <div class="col-xs-9">
                                             <input type="text" class="form-control" id="iglesia" name="iglesia">
                                         </div>
                                     </div>
                                     <div class="form-group">
-                                            <label class="control-label col-xs-3 label-form" for="oracion">Petición de Oración:</label>
+                                            <label class="control-label col-xs-3 label-form" for="oracion">Petición de Oración</label>
                                             <div class="col-xs-9">
                                                 <textarea rows="5" class="form-control" id="oracion" name="oracion"></textarea>
                                             </div>
