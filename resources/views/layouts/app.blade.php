@@ -97,8 +97,8 @@
 
                             <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li><!-- Dr. Owuor li end -->
 
-                            <li class="dropdown header-ticket">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-ticket"></i> Registro</a>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-ticket"></i> Registro <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="{{ url('registroconferencia') }}">Conferencia</a></li>
                                     <li><a href="{{ url('registrocruzada') }}">Cruzada</a></li>
