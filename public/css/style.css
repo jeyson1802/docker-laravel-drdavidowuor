@@ -778,14 +778,7 @@ ul.navbar-nav > li > a i {
 #banner {
     padding: 0;
 }
-.banner-item {
-    min-height: 800px;
-    color: #fff;
-    background-position: 50% 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-    -webkit-backface-visibility: hidden;
-}
+
 .banner-content,
 .banner-reg-form {
     padding: 280px 0;
@@ -2667,4 +2660,56 @@ label {
 
 .form-horizontal .control-label {
     text-align: left;
+}
+
+
+/* Customizacion Devices Responsive
+================================================== */
+
+/* Mobile Styles */
+@media only screen and (max-width: 550px) {
+
+    .banner-item {
+        min-height: 275px !important;
+        color: #fff;
+        background-position: 50% 50%;
+        -webkit-background-size: cover;
+        background-size: cover;
+        -webkit-backface-visibility: hidden;
+        background-image:url(../images/hero-area/portada-mobile.jpg);
+        
+    }
+
+    .logo {
+        display: none;
+    }
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 551px) and (max-width: 1150px) {
+
+    .banner-item {
+        min-height: 575px !important;
+        color: #fff;
+        background-position: 50% 50%;
+        -webkit-background-size: cover;
+        background-size: cover;
+        -webkit-backface-visibility: hidden;
+        background-image:url(../images/hero-area/portada-tablet.jpg);
+    }
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 1151px) {
+
+    .banner-item {
+        min-height: 800px !important;
+        color: #fff;
+        background-position: 50% 50%;
+        -webkit-background-size: cover;
+        background-size: cover;
+        -webkit-backface-visibility: hidden;
+        background-image:url(../images/hero-area/portada-desktop.jpg);
+    }
+
 }

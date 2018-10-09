@@ -5,7 +5,7 @@
 @section('content')
 
     <section id="banner">
-        <div class="banner-item" style="background-image:url(images/hero-area/portada.jpg)">
+        <div class="banner-item">
         </div><!-- Banner item end -->
     </section><!-- Section banner end -->
 
