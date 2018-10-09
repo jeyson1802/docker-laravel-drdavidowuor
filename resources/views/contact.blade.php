@@ -20,7 +20,7 @@
                                 <i class="fa fa-map-marker">&nbsp;</i>
                                 <div class="contact-info-box-content">
                                     <h4>Dirección</h4>
-                                    <p>Explanada 200 Millas - Ovalo Las Palomas - Frente al Parque Huascar - V.E.S</p>
+                                    <p>Explanada 200 Millas - Ovalo Las Palomas - Frente al Parque Huascar - V.E.S - Lima - Perú</p>
                                 </div>
                             </div>
 

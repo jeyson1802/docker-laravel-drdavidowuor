@@ -168,7 +168,7 @@
                     <div class="venu-info-content box1">
                         <span class="venu-info-icon"><i class="fa fa-map-marker"></i></span>
                         <h3 class="venu-info-title">Lugar</h3>
-                        <p class="venu-info-text">La cruzada de avivamiento se llevará a cabo en Lima - Perú, para mayor información contáctenos..</p>
+                        <p class="venu-info-text">La cruzada de avivamiento se llevará a cabo en <b>Explanada 200 Millas - Ovalo Las Palomas - Frente al Parque Huascar - V.E.S - Lima - Perú </b>, para mayor información contáctenos..</p>
                         <a href="{{ url('contactodrowuorperu') }}" class="venu-info-link">Leer Más <i class="fa fa-angle-right"></i></a>
                     </div><!-- Venu content end -->
                 </div><!-- Col 1 end -->
