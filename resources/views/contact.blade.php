@@ -20,7 +20,7 @@
                                 <i class="fa fa-map-marker">&nbsp;</i>
                                 <div class="contact-info-box-content">
                                     <h4>Dirección</h4>
-                                    <p>Lima - Perú</p>
+                                    <p>Explanada 200 Millas - Ovalo Las Palomas - Frente al Parque Huascar - V.E.S</p>
                                 </div>
                             </div>
 
@@ -103,8 +103,7 @@
     <script type="text/javascript">
 
         /* Event map */
-
-        var eventmap = {lat: -12.0578722, lng: -77.0836102};
+        var eventmap = {lat: -12.229033, lng: -76.928103};
 
         $('.map')
             .gmap3({
@@ -120,7 +119,7 @@
 
             .infowindow({
                 position: eventmap,
-                content: "Estadio San Marcos - Evento"
+                content: "Explanada 200 Millas - V.E.S"
             })
 
             .then(function (infowindow) {

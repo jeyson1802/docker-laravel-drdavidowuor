@@ -193,7 +193,7 @@
 
         /* Event map */
 
-        var eventmap = {lat: -12.0578722, lng: -77.0836102};
+        var eventmap = {lat: -12.229033, lng: -76.928103};
 
         $('.map')
             .gmap3({
@@ -209,7 +209,7 @@
 
             .infowindow({
                 position: eventmap,
-                content: "Estadio San Marcos - Evento"
+                content: "Explanada 200 Millas - V.E.S"
             })
 
             .then(function (infowindow) {
