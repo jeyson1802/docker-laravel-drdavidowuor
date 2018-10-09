@@ -36,7 +36,7 @@
                                 <i class="fa fa-phone">&nbsp;</i>
                                 <div class="contact-info-box-content">
                                     <h4>Teléfonos</h4>
-                                    <p>941377886 / 986599775</p>
+                                    <p>941377810 / 925885957</p>
                                 </div>
                             </div>
 
