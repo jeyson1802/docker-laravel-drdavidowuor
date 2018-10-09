@@ -35,12 +35,8 @@ Route::get('/conferenciadepastoresdrowuorperu', function () {
     return view('conference');
 });
 
-Route::get('/hotelesdrowuorperu', function () {
-    return view('hotels');
-});
-
-Route::get('/transportedrowuorperu', function () {
-    return view('transport');
+Route::get('/cruzadadrowuorperu', function () {
+    return view('cruzada');
 });
 
 Route::get('/registroconferencia', function () {

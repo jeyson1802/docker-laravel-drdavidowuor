@@ -85,9 +85,8 @@
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Evento <i class="fa fa-angle-down"></i></a>
                                 <ul class="dropdown-menu" role="menu">
                                     <li><a href="{{ url('conferenciadepastoresdrowuorperu') }}">Conferencia</a></li>
+                                    <li><a href="{{ url('cruzadadrowuorperu') }}">Cruzada</a></li>
                                     <li><a href="{{ url('programaciondrowuorperu') }}">Programación</a></li>
-                                    <li><a href="#">Hoteles</a></li>
-                                    <li><a href="#">Transporte</a></li>
                                 </ul>
                             </li><!-- Evento li end -->
 
