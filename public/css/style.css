@@ -2696,7 +2696,7 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
-        background-image:url(../images/banner/banner-tablet.jpg);
+        background-image:url(../images/hero-area/portada-tablet.jpg);
     }
 
     .page-banner-area {
@@ -2707,6 +2707,7 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
+        background-image:url(../images/banner/banner-tablet.jpg);
     }
 }
 
