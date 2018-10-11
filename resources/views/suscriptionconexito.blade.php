@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banner/banner1.jpg)">
+    <div id="page-banner-area" class="page-banner-area">
     </div><!-- Page Banner end -->
 
     <section id="main-container" class="main-container">

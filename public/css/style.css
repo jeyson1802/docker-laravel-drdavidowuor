@@ -1974,16 +1974,6 @@ h4.panel-title a.collapsed:before {
 ================================================== */
 
 /* Page banner area */
-
-.page-banner-area {
-    position: relative;
-    min-height: 450px;
-    color: #fff;
-    background-position: 50% 50%;
-    -webkit-background-size: cover;
-    background-size: cover;
-    -webkit-backface-visibility: hidden;
-}
 .page-banner-title {
     position: absolute;
     top: 50%;
@@ -2670,7 +2660,7 @@ label {
 @media only screen and (max-width: 550px) {
 
     .banner-item {
-        min-height: 275px !important;
+        min-height: 450px !important;
         color: #fff;
         background-position: 50% 50%;
         -webkit-background-size: cover;
@@ -2678,6 +2668,17 @@ label {
         -webkit-backface-visibility: hidden;
         background-image:url(../images/hero-area/portada-mobile.jpg);
         
+    }
+    
+    .page-banner-area {
+        position: relative;
+        min-height: 300px;
+        color: #fff;
+        background-position: 50% 50%;
+        -webkit-background-size: cover;
+        background-size: cover;
+        -webkit-backface-visibility: hidden;
+        background-image:url(../images/banner/banner-mobile.jpg)
     }
 
     .logo {
@@ -2695,7 +2696,17 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
-        background-image:url(../images/hero-area/portada-tablet.jpg);
+        background-image:url(../images/banner/banner-tablet.jpg);
+    }
+
+    .page-banner-area {
+        position: relative;
+        min-height: 450px;
+        color: #fff;
+        background-position: 50% 50%;
+        -webkit-background-size: cover;
+        background-size: cover;
+        -webkit-backface-visibility: hidden;
     }
 }
 
@@ -2712,4 +2723,14 @@ label {
         background-image:url(../images/hero-area/portada-desktop.jpg);
     }
 
+    .page-banner-area {
+        position: relative;
+        min-height: 450px;
+        color: #fff;
+        background-position: 50% 50%;
+        -webkit-background-size: cover;
+        background-size: cover;
+        -webkit-backface-visibility: hidden;
+        background-image:url(../images/banner/banner-desktop.jpg);
+    }
 }
