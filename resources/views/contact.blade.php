@@ -41,7 +41,7 @@
                             </div>
 
                             <div class="contact-info-box">
-                                <i class="fa fa-phone">&nbsp;</i>
+                                <i class="fa fa-users">&nbsp;</i>
                                 <div class="contact-info-box-content">
                                     <h4>Coordinadores Nacionales</h4>
                                     <p>Ps. Cesar Pisconti - Obispo elegido Herbert</p>
