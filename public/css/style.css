@@ -2666,7 +2666,7 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
-        background-image:url(../images/hero-area/portada-mobile.jpg);
+        background-image:url(../images/hero-area/bg1.jpg);
         
     }
     
@@ -2678,7 +2678,7 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
-        background-image:url(../images/banner/banner-mobile.jpg)
+        background-image:url(../images/banner/banner1-old.jpg)
     }
 
     .logo {
@@ -2696,7 +2696,7 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
-        background-image:url(../images/hero-area/portada-tablet.jpg);
+        background-image:url(../images/hero-area/bg1.jpg);
     }
 
     .page-banner-area {
@@ -2707,7 +2707,7 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
-        background-image:url(../images/banner/banner-tablet.jpg);
+        background-image:url(../images/banner/banner1-old.jpg);
     }
 }
 
@@ -2721,7 +2721,7 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
-        background-image:url(../images/hero-area/portada-desktop.jpg);
+        background-image:url(../images/hero-area/bg1.jpg);
     }
 
     .page-banner-area {
@@ -2732,6 +2732,6 @@ label {
         -webkit-background-size: cover;
         background-size: cover;
         -webkit-backface-visibility: hidden;
-        background-image:url(../images/banner/banner-desktop.jpg);
+        background-image:url(../images/banner/banner1-old.jpg);
     }
 }
