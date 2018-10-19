@@ -30,10 +30,18 @@
                                 </div>
             
                                 <div class="contact-info-box">
-                                    <i class="fa fa-phone">&nbsp;</i>
+                                        <i class="fa fa-phone">&nbsp;</i>
+                                        <div class="contact-info-box-content">
+                                            <h4>Teléfonos</h4>
+                                            <p>941377810 / 925885957</p>
+                                        </div>
+                                    </div>
+
+                                <div class="contact-info-box">
+                                    <i class="fa fa-users">&nbsp;</i>
                                     <div class="contact-info-box-content">
-                                        <h4>Teléfonos</h4>
-                                        <p>941377886 / 986599775</p>
+                                        <h4>Coordinadores Nacionales</h4>
+                                        <p>Ps. Cesar Pisconti - Obispo Herbert Ayer</p>
                                     </div>
                                 </div>
             
