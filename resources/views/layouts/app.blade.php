@@ -131,9 +131,9 @@
 
                     <div class="footer-social">
                         <ul>
-                            <li><a href="https://www.facebook.com/arrepentimientoPeru/"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://www.youtube.com/channel/UC4t2Ayei5g6kF6qCZRQTuBA/featured"><i class="fa fa-youtube"></i></a></li>
-                            <li><a href="https://www.instagram.com/arrepentimientoal/?hl=es-la"><i class="fa fa-instagram"></i></a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/arrepentimientoPeru/"><i class="fa fa-facebook"></i></a></li>
+                            <li><a target="_blank" href="https://www.youtube.com/channel/UC4t2Ayei5g6kF6qCZRQTuBA/featured"><i class="fa fa-youtube"></i></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/arrepentimientoal/?hl=es-la"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div><!-- Footer social end -->
 
