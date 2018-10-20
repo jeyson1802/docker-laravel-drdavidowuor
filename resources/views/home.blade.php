@@ -34,50 +34,18 @@
                         <ul class="nav nav-tabs">
                             <li class="active">
                                 <a class="animated fadeIn" href="#tab_a" data-toggle="tab">
-                                    Liberación
+                                    Arrepentimiento y Avivamiento
                                 </a>
-                            </li>
-                            <li>
-                                <a class="animated fadeIn" href="#tab_b" data-toggle="tab">
-							  		<span class="tab-head">
-										<span class="tab-text-title">Sanidad</span>
-									</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="animated fadeIn" href="#tab_c" data-toggle="tab">
-							  		<span class="tab-head">
-										<span class="tab-text-title">Impartición</span>
-									</span>
-                                </a>
-                            </li>
+                            </li>                        
                         </ul>
 
                         <div class="tab-content">
                             <div class="tab-pane active animated fadeInRight" id="tab_a">
-                                <h3 class="tab-content-title">Sesión de Liberación </h3>
-                                <p class="sppb-cta-text">	El cuerpo de Cristo necesita ser liberado de toda opresión. En la cruzada de avivamiento por el profeta Dr. Owuor tendremos una sesión de liberación con poder. Seremos libres por el poder de Cristo nuestro Señor.
+                                <h3 class="tab-content-title">Arrepentimiento y Avivamiento</h3>
+                                <p class="sppb-cta-text"> El Señor nos invita a arrepentirnos y volver a sus caminos, nos invita a ser llenos del Espiritu Santo de Dios.
                                 </p>
                                 <blockquote>	El Espíritu del Señor está sobre mí, Por cuanto me ha ungido para dar buenas nuevas a los pobres; Me ha enviado a sanar a los quebrantados de corazón; A pregonar libertad a los cautivos, Y vista a los ciegos; A poner en libertad a los oprimidos - Lucas 4:18</blockquote>
-                            </div><!-- Tab pane 1 end -->
-
-                            <div class="tab-pane animated fadeInRight" id="tab_b">
-                                <h3 class="tab-content-title">Sesión de Sanidad</h3>
-                                <p>El profeta Dr. Owuor tendrá una sesión de oración por sanidad, cada pastor podrá ser libre de toda enfermdad que el enemigo haya querido poner sobre sus vidas, para así poder liberar al pueblo de Cristo.
-                                <blockquote>		tomarán en las manos serpientes, y si bebieren cosa mortífera, no les hará daño; sobre los enfermos pondrán sus manos, y sanarán - Marcos 16:18</blockquote>
-                                </p>
-                            </div><!-- Tab pane 2 end -->
-
-                            <div class="tab-pane animated fadeInRight" id="tab_c">
-                                <h3 class="tab-content-title">Sesión de impartición</h3>
-                                <p>El profeta Dr. Owuor impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú.</p>
-                                <ul class="list-arrow">
-                                    <li>Sanidad</li>
-                                    <li>Liberación</li>
-                                    <li>Unción</li>
-                                    <li>Finanzas</li>
-                                </ul>
-                            </div><!-- Tab pane 3 end -->
+                            </div><!-- Tab pane 1 end -->                            
                         </div><!-- tab content -->
                     </div><!-- Featured tab end -->
                 </div><!-- Col end -->
@@ -95,7 +63,7 @@
 							<i class="fa fa-users"></i>
 						</span>
                         <div class="ts-facts-content">
-                            <h2 class="ts-facts-num"><span class="counterUp">1500</span></h2>
+                            <h2 class="ts-facts-num"><span class="counterUp">20</span></h2>
                             <h3 class="ts-facts-title">Pastores</h3>
                         </div>
                     </div><!-- Col 1 end -->

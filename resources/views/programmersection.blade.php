@@ -46,69 +46,18 @@
                             <h2 class="schedule-date">Jueves 25 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">9:30 - 10:00</span>
+                                <span class="schedule-slot-time">9:00 - 13:00</span>
                                 <div class="schedule-slot-info">
                                     <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-title">Entrada</h3>
+                                        <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Se verificará la entrada de cada pastor, como requisitos la entrada se permitirá con el ticket de registro y su credencial como pastor.
+                                            Se realizará el evento principal.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
                             </div><!-- Slot listing 1 end -->
 
-                            <div class="schedule-listing">
-                                <span class="schedule-slot-time">10:30 - 11:15AM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Equipo de Alabanza</h3>
-                                        <h4 class="schedule-slot-title">Momento de adoración y alabanza</h4>
-                                        <p class="schedule-slot-desc">El equipo de alabanza minmistrará el comienzo de la conferencia con adoración y alabanza a nuestro Señor.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 2 end -->
-
-                            <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">11:15 - 13:15PM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
-                                        <h4 class="schedule-slot-title">El poder de la palabra</h4>
-                                        <p class="schedule-slot-desc">Profeta Dr. Owuor impartirá la importancia del poder de la palabra.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 3 end -->
-
-                            <div class="schedule-listing">
-                                <span class="schedule-slot-time">13:30 - 14:30PM</span>
-                                <div class="schedule-slot-info">
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-title">Refrigerio</h3>
-                                        <p class="schedule-slot-desc">Se dará un descanso de 15 minutos.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 4 end -->
-
-                            <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">14:35 - 16:00PM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
-                                        <h4 class="schedule-slot-title">Sesión de Liberación</h4>
-                                        <p class="schedule-slot-desc">Profeta Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 5 end -->
-
+                            
                         </div><!-- Tab pane 1 end -->
 
                         <div class="tab-pane animated fadeInRight" id="tab_two">
@@ -116,69 +65,18 @@
                             <h2 class="schedule-date">Viernes 26 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">9:30 - 10:00</span>
+                                <span class="schedule-slot-time">A partir de las 12:00</span>
                                 <div class="schedule-slot-info">
                                     <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-title">Entrada</h3>
+                                        <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Se verificará la entrada de cada pastor, como requisitos la entrada se permitirá con el ticket de registro y su credencial como pastor.
+                                            Se realizará el evento principal.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
                             </div><!-- Slot listing 1 end -->
-
-                            <div class="schedule-listing">
-                                <span class="schedule-slot-time">10:30 - 11:15AM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Equipo de Alabanza</h3>
-                                        <h4 class="schedule-slot-title">Momento de adoración y alabanza</h4>
-                                        <p class="schedule-slot-desc">El equipo de alabanza minmistrará el comienzo de la conferencia con adoración y alabanza a nuestro Señor.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 2 end -->
-
-                            <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">11:15 - 13:15PM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
-                                        <h4 class="schedule-slot-title">El poder de la palabra</h4>
-                                        <p class="schedule-slot-desc">Profeta Dr. Owuor impartirá la importancia del poder de la palabra.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 3 end -->
-
-                            <div class="schedule-listing">
-                                <span class="schedule-slot-time">13:30 - 14:30PM</span>
-                                <div class="schedule-slot-info">
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-title">Refrigerio</h3>
-                                        <p class="schedule-slot-desc">Se dará un descanso de 15 minutos.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 4 end -->
-
-                            <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">14:35 - 16:00PM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
-                                        <h4 class="schedule-slot-title">Sesión de Liberación</h4>
-                                        <p class="schedule-slot-desc">Profeta Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 5 end -->
-
+                        
+                            
                         </div><!-- Tab pane 2 end -->
 
                         <div class="tab-pane animated fadeInRight" id="tab_three">
@@ -186,68 +84,17 @@
                             <h2 class="schedule-date">Sábado 27 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">9:30 - 10:00</span>
+                                <span class="schedule-slot-time">A partir de las 12:00</span>
                                 <div class="schedule-slot-info">
                                     <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-title">Entrada</h3>
+                                        <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Se verificará la entrada de cada pastor, como requisitos la entrada se permitirá con el ticket de registro y su credencial como pastor.
+                                            Se realizará el evento principal.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
                             </div><!-- Slot listing 1 end -->
-
-                            <div class="schedule-listing">
-                                <span class="schedule-slot-time">10:30 - 11:15AM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Equipo de Alabanza</h3>
-                                        <h4 class="schedule-slot-title">Momento de adoración y alabanza</h4>
-                                        <p class="schedule-slot-desc">El equipo de alabanza minmistrará el comienzo de la conferencia con adoración y alabanza a nuestro Señor.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 2 end -->
-
-                            <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">11:15 - 13:15PM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
-                                        <h4 class="schedule-slot-title">El poder de la palabra</h4>
-                                        <p class="schedule-slot-desc">Profeta Dr. Owuor impartirá la importancia del poder de la palabra.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 3 end -->
-
-                            <div class="schedule-listing">
-                                <span class="schedule-slot-time">13:30 - 14:30PM</span>
-                                <div class="schedule-slot-info">
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-title">Refrigerio</h3>
-                                        <p class="schedule-slot-desc">Se dará un descanso de 15 minutos.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 4 end -->
-
-                            <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">14:35 - 16:00PM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
-                                        <h4 class="schedule-slot-title">Sesión de Liberación</h4>
-                                        <p class="schedule-slot-desc">Profeta Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 5 end -->
+                            
 
                         </div><!-- Tab pane 3 end -->
 
@@ -256,68 +103,16 @@
                             <h2 class="schedule-date">Domingo 28 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">9:30 - 10:00</span>
+                                <span class="schedule-slot-time">A partir de las 12:00</span>
                                 <div class="schedule-slot-info">
                                     <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-title">Entrada</h3>
+                                        <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Se verificará la entrada de cada pastor, como requisitos la entrada se permitirá con el ticket de registro y su credencial como pastor.
+                                            Se realizará el evento principal.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
-                            </div><!-- Slot listing 1 end -->
-
-                            <div class="schedule-listing">
-                                <span class="schedule-slot-time">10:30 - 11:15AM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Equipo de Alabanza</h3>
-                                        <h4 class="schedule-slot-title">Momento de adoración y alabanza</h4>
-                                        <p class="schedule-slot-desc">El equipo de alabanza minmistrará el comienzo de la conferencia con adoración y alabanza a nuestro Señor.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 2 end -->
-
-                            <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">11:15 - 13:15PM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
-                                        <h4 class="schedule-slot-title">El poder de la palabra</h4>
-                                        <p class="schedule-slot-desc">Profeta Dr. Owuor impartirá la importancia del poder de la palabra.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 3 end -->
-
-                            <div class="schedule-listing">
-                                <span class="schedule-slot-time">13:30 - 14:30PM</span>
-                                <div class="schedule-slot-info">
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-title">Refrigerio</h3>
-                                        <p class="schedule-slot-desc">Se dará un descanso de 15 minutos.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 4 end -->
-
-                            <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">14:35 - 16:00PM</span>
-                                <div class="schedule-slot-info">
-                                    <a href="#">
-                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
-                                    </a>
-                                    <div class="schedule-slot-info-content">
-                                        <h3 class="schedule-slot-speaker-name">Profeta Dr. Owuor</h3>
-                                        <h4 class="schedule-slot-title">Sesión de Liberación</h4>
-                                        <p class="schedule-slot-desc">Profeta Dr. Owuor tendrá un sesión de liberación, sanidad y milagros.</p>
-                                    </div><!--Info content end -->
-                                </div><!-- Slot info end -->
-                            </div><!-- Slot listing 5 end -->
+                            </div><!-- Slot listing 1 end -->                            
 
                         </div><!-- Tab pane 4 end -->
 

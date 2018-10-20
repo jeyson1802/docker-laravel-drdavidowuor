@@ -16,8 +16,10 @@
                                     <div class="contact-info-box">
                                         <i class="fa fa-map-marker">&nbsp;</i>
                                         <div class="contact-info-box-content">
+                                            <h4>Día y Horario</h4>
+                                            <p>27 y 28 de Octubre - 12:00 p.m</p>
                                             <h4>Dirección</h4>
-                                            <p>Lima - Perú</p>
+                                            <p>Explanada 200 Millas - Ovalo Las Palomas - Frente al Parque Huascar - V.E.S - Lima - Perú</p>
                                         </div>
                                     </div>
                 
