@@ -61,7 +61,7 @@
             <div class="row">
                 <div class="navbar-header">
                     <div class="logo">
-                        <a href="index.html">
+                        <a href="#">
                             <img src="images/logo.png" alt="">
                         </a>
                     </div><!-- logo end -->
@@ -143,7 +143,6 @@
                             <li><a href="{{ url('programaciondrowuorperu') }}">Programación</a></li>
                             <li><a href="{{ url('drowuorperu') }}">Profeta Dr. David Owuor</a></li>
                             <li><a href="{{ url('registrocruzada') }}">Registro</a></li>
-                            <li><a href="{{ url('preguntasdrowuor') }}">Preguntas Frecuentes</a></li>
                             <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li>
                         </ul>
                     </div><!-- Footer menu end -->
