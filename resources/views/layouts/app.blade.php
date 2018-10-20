@@ -90,9 +90,7 @@
                                 </ul>
                             </li><!-- Evento li end -->
 
-                            <li><a href="{{ url('drowuorperu') }}">Profeta Dr. Owuor</a></li><!-- Dr. Owuor li end -->
-
-                            <li><a href="{{ url('preguntasdrowuor') }}">Preguntas Frecuentes</a></li><!-- Dr. Owuor li end -->
+                            <li><a href="{{ url('drowuorperu') }}">Profeta Dr. Owuor</a></li><!-- Dr. Owuor li end -->                            
 
                             <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li><!-- Dr. Owuor li end -->
 
