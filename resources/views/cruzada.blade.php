@@ -13,10 +13,10 @@
 
                 <div class="col-md-6">
                     <h3 class="title-classic left">¿Qué sucederá en el evento?</h3>
-                    <p class="sppb-cta-text">	El cuerpo de Cristo necesita ser liberado de toda opresión. En la cruzada de avivamiento por el profeta Dr. Owuor tendremos una sesión de arrepentimento con poder. Seremos libres por el poder de Cristo nuestro Señor.
+                    <p class="sppb-cta-text">	El cuerpo de Cristo necesita ser liberado de toda opresión. En la cruzada de avivamiento por el Profeta Dr. David Owuor tendremos una sesión de arrepentimento con poder. Seremos libres por el poder de Cristo nuestro Señor.
                     </p>
                     <blockquote>El Espíritu del Señor está sobre mí, Por cuanto me ha ungido para dar buenas nuevas a los pobres; Me ha enviado a sanar a los quebrantados de corazón; A pregonar libertad a los cautivos, Y vista a los ciegos; A poner en libertad a los oprimidos - Lucas 4:18</blockquote>
-                    <p>El profeta Dr. Owuor impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú..</p>
+                    <p>El Profeta Dr. David Owuor impartirá bendición y unción sobre los invitados de la conferencia, esto traerá un cambio a la nación de Perú..</p>
                 </div><!-- Col end -->
 
                 <div class="col-md-6">                    
@@ -27,7 +27,7 @@
 						</span>
                         <div class="feature-box-content">
                             <h3 class="feature-title">Sanidad</h3>
-                            <p>El profeta Dr. Owuor tendrá una sesión de oración por sanidad, cada pastor podrá ser libre de toda enfermdad que el enemigo haya querido poner sobre sus vidas, para así poder liberar al pueblo de Cristo.</p>
+                            <p>El Profeta Dr. David Owuor tendrá una sesión de oración por sanidad, cada pastor podrá ser libre de toda enfermdad que el enemigo haya querido poner sobre sus vidas, para así poder liberar al pueblo de Cristo.</p>
                         </div>
                     </div><!-- Feature box 2 end -->
 

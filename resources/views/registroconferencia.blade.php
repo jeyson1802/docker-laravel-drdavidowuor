@@ -13,6 +13,23 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <div class="sidebar sidebar-left">
                             <div class="widget contact-info">
+
+                                <div class="contact-info-box">
+                                    <i class="fa fa-users">&nbsp;</i>
+                                    <div class="contact-info-box-content">
+                                        <h4>Coordinadores Nacionales</h4>
+                                        <p>Ps. Cesar Pisconti - Obispo Herbert Ayer</p>
+                                    </div>
+                                </div>
+
+                                <div class="contact-info-box">
+                                    <i class="fa fa-phone">&nbsp;</i>
+                                    <div class="contact-info-box-content">
+                                        <h4>Teléfonos</h4>
+                                        <p>941377810 / 925885957</p>
+                                    </div>
+                                </div>
+
                                 <div class="contact-info-box">
                                     <i class="fa fa-map-marker">&nbsp;</i>
                                     <div class="contact-info-box-content">
@@ -28,22 +45,6 @@
                                     <div class="contact-info-box-content">
                                         <h4>E-mail</h4>
                                         <p>contacto@arrepentimientoamericalatina.com</p>
-                                    </div>
-                                </div>
-            
-                                <div class="contact-info-box">
-                                        <i class="fa fa-phone">&nbsp;</i>
-                                        <div class="contact-info-box-content">
-                                            <h4>Teléfonos</h4>
-                                            <p>941377810 / 925885957</p>
-                                        </div>
-                                    </div>
-
-                                <div class="contact-info-box">
-                                    <i class="fa fa-users">&nbsp;</i>
-                                    <div class="contact-info-box-content">
-                                        <h4>Coordinadores Nacionales</h4>
-                                        <p>Ps. Cesar Pisconti - Obispo Herbert Ayer</p>
                                     </div>
                                 </div>
             

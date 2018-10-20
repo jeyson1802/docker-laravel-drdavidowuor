@@ -14,7 +14,7 @@
 
             <div class="row text-center">
                 <h2 class="section-title">Cruzada de Avivamiento</h2>
-                <p class="section-sub-title">Profeta Dr. Owuor</p>
+                <p class="section-sub-title">Profeta Dr. David Owuor</p>
             </div><!--/ Title row end -->
 
             <div class="row">

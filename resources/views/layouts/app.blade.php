@@ -90,7 +90,7 @@
                                 </ul>
                             </li><!-- Evento li end -->
 
-                            <li><a href="{{ url('drowuorperu') }}">Profeta Dr. Owuor</a></li><!-- Dr. Owuor li end -->                            
+                            <li><a href="{{ url('drowuorperu') }}">Profeta Dr. David Owuor</a></li><!-- Dr. Owuor li end -->                            
 
                             <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li><!-- Dr. Owuor li end -->
 
@@ -131,9 +131,9 @@
 
                     <div class="footer-social">
                         <ul>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.facebook.com/arrepentimientoPeru/"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.youtube.com/channel/UC4t2Ayei5g6kF6qCZRQTuBA/featured"><i class="fa fa-youtube"></i></a></li>
+                            <li><a href="https://www.instagram.com/arrepentimientoal/?hl=es-la"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div><!-- Footer social end -->
 
@@ -141,7 +141,7 @@
                         <ul class="nav unstyled">
                             <li><a href="{{ url('conferenciadepastoresdrowuorperu') }}">Conferencia</a></li>
                             <li><a href="{{ url('programaciondrowuorperu') }}">Programación</a></li>
-                            <li><a href="{{ url('drowuorperu') }}">Profeta Dr. Owuor</a></li>
+                            <li><a href="{{ url('drowuorperu') }}">Profeta Dr. David Owuor</a></li>
                             <li><a href="{{ url('registrocruzada') }}">Registro</a></li>
                             <li><a href="{{ url('preguntasdrowuor') }}">Preguntas Frecuentes</a></li>
                             <li><a href="{{ url('contactodrowuorperu') }}">Contacto</a></li>
@@ -149,7 +149,7 @@
                     </div><!-- Footer menu end -->
 
                     <div class="copyright-info">
-                        <span>Copyright © 2018 Profeta Dr. Owuor Perú. All Rights Reserved.</span>
+                        <span>Copyright © 2018 Profeta Dr. David Owuor Perú. All Rights Reserved.</span>
                     </div><!-- Copyright info end -->
 
                 </div><!-- Content col end -->

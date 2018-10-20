@@ -16,19 +16,12 @@
 
                     <div class="sidebar sidebar-left">
                         <div class="widget contact-info">
-                            <div class="contact-info-box">
-                                <i class="fa fa-map-marker">&nbsp;</i>
-                                <div class="contact-info-box-content">
-                                    <h4>Dirección</h4>
-                                    <p>Explanada 200 Millas - Ovalo Las Palomas - Frente al Parque Huascar - V.E.S - Lima - Perú</p>
-                                </div>
-                            </div>
 
                             <div class="contact-info-box">
-                                <i class="fa fa-envelope-o">&nbsp;</i>
+                                <i class="fa fa-users">&nbsp;</i>
                                 <div class="contact-info-box-content">
-                                    <h4>E-mail</h4>
-                                    <p>contacto@arrepentimientoamericalatina.com</p>
+                                    <h4>Coordinadores Nacionales</h4>
+                                    <p>Ps. Cesar Pisconti - Obispo Herbert Ayer</p>
                                 </div>
                             </div>
 
@@ -41,10 +34,20 @@
                             </div>
 
                             <div class="contact-info-box">
-                                <i class="fa fa-users">&nbsp;</i>
+                                <i class="fa fa-map-marker">&nbsp;</i>
                                 <div class="contact-info-box-content">
-                                    <h4>Coordinadores Nacionales</h4>
-                                    <p>Ps. Cesar Pisconti - Obispo Herbert Ayer</p>
+                                    <h4>Dirección</h4>
+                                    <p>Explanada 200 Millas - Ovalo Las Palomas - Frente al Parque Huascar - V.E.S - Lima - Perú</p><br>
+                                    <a href="https://www.facebook.com/arrepentimientoPeru/">https://www.facebook.com/arrepentimientoPeru/</a><br>
+                                    <a href="https://www.facebook.com/ministeriopalabrayespiritu/">https://www.facebook.com/ministeriopalabrayespiritu/</a>
+                                </div>
+                            </div>
+
+                            <div class="contact-info-box">
+                                <i class="fa fa-envelope-o">&nbsp;</i>
+                                <div class="contact-info-box-content">
+                                    <h4>E-mail</h4>
+                                    <p>contacto@arrepentimientoamericalatina.com</p>
                                 </div>
                             </div>
 
