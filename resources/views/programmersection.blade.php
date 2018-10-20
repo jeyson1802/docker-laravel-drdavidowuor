@@ -48,6 +48,9 @@
                             <div class="schedule-listing bg">
                                 <span class="schedule-slot-time">9:00 - 13:00</span>
                                 <div class="schedule-slot-info">
+                                    <a href="#">
+                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
+                                    </a>
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
@@ -67,6 +70,9 @@
                             <div class="schedule-listing bg">
                                 <span class="schedule-slot-time">9:00 - 13:00</span>
                                 <div class="schedule-slot-info">
+                                    <a href="#">
+                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
+                                    </a>
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
@@ -86,6 +92,9 @@
                             <div class="schedule-listing bg">
                                 <span class="schedule-slot-time">A partir de las 12:00</span>
                                 <div class="schedule-slot-info">
+                                    <a href="#">
+                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
+                                    </a>
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
@@ -105,6 +114,9 @@
                             <div class="schedule-listing bg">
                                 <span class="schedule-slot-time">A partir de las 12:00</span>
                                 <div class="schedule-slot-info">
+                                    <a href="#">
+                                        <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
+                                    </a>
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
