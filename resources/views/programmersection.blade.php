@@ -65,7 +65,7 @@
                             <h2 class="schedule-date">Viernes 26 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">A partir de las 12:00</span>
+                                <span class="schedule-slot-time">9:00 - 13:00</span>
                                 <div class="schedule-slot-info">
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
