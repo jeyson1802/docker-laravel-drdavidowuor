@@ -33,11 +33,7 @@
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            </ul>
-                            <div class="ts-speaker-session">
-                                <h4 class="session-title">Sesión: Liberación, Milagros y Sanidades</h4>
-                                <p>El profeta Dr. Owuor impartirá con la unción del Espíritu Santo, impartirá sanidad, milagros y liberación.</p>
-                            </div>
+                            </ul>                           
                         </div><!-- Info end -->
                     </div><!-- Col end -->
                 </div><!-- Speaker list 1 end -->
