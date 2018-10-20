@@ -55,7 +55,7 @@
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
                                             Conferencia para Pastores, Ministros y Líderes del evangelio.<br>
-                                            Iglesia Catedral de Fé. Cerca de Campo de Marte. Av. Guzmán Blanco 350. Cercado de Lima.
+                                            <b>Iglesia Catedral de Fé. Cerca de Campo de Marte. Av. Guzmán Blanco 350. Cercado de Lima.</b>
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -78,7 +78,7 @@
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
                                             Conferencia para Pastores, Ministros y Líderes del evangelio.<br>
-                                            Iglesia Catedral de Fé. Cerca de Campo de Marte. Av. Guzmán Blanco 350. Cercado de Lima.
+                                            <b>Iglesia Catedral de Fé. Cerca de Campo de Marte. Av. Guzmán Blanco 350. Cercado de Lima.</b>
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -101,7 +101,7 @@
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
                                             Gran Mega Cruzada de Sanidades y Milagros.<br>
-                                            Explanada 200 Millas (Frente del Parque Huáscar.) ovalo las palomas Villa El Salvador.
+                                            <b>Explanada 200 Millas (Frente del Parque Huáscar.) ovalo las palomas Villa El Salvador.</b>
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -124,7 +124,7 @@
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
                                             Gran Mega Cruzada de Sanidades y Milagros.<br>
-                                            Explanada 200 Millas (Frente del Parque Huáscar.) ovalo las palomas Villa El Salvador.
+                                            <b>Explanada 200 Millas (Frente del Parque Huáscar.) ovalo las palomas Villa El Salvador.</b>
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
