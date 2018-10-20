@@ -54,7 +54,8 @@
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Conferencia para Pastores, Ministros y Líderes del evangelio.
+                                            Conferencia para Pastores, Ministros y Líderes del evangelio.<br>
+                                            Iglesia Catedral de Fé. Cerca de Campo de Marte. Av. Guzmán Blanco 350. Cercado de Lima.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -76,7 +77,8 @@
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Conferencia para Pastores, Ministros y Líderes del evangelio.
+                                            Conferencia para Pastores, Ministros y Líderes del evangelio.<br>
+                                            Iglesia Catedral de Fé. Cerca de Campo de Marte. Av. Guzmán Blanco 350. Cercado de Lima.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -90,7 +92,7 @@
                             <h2 class="schedule-date">Sábado 27 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">A partir de las 12:00</span>
+                                <span class="schedule-slot-time">A partir de las 12:00 del mediodía</span>
                                 <div class="schedule-slot-info">
                                     <a href="#">
                                         <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
@@ -98,7 +100,8 @@
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Gran Mega Cruzada de Sanidades y Milagros.
+                                            Gran Mega Cruzada de Sanidades y Milagros.<br>
+                                            Explanada 200 Millas (Frente del Parque Huáscar.) ovalo las palomas Villa El Salvador.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -112,7 +115,7 @@
                             <h2 class="schedule-date">Domingo 28 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">A partir de las 12:00</span>
+                                <span class="schedule-slot-time">A partir de las 12:00 del mediodía</span>
                                 <div class="schedule-slot-info">
                                     <a href="#">
                                         <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
@@ -120,7 +123,8 @@
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Gran Mega Cruzada de Sanidades y Milagros.
+                                            Gran Mega Cruzada de Sanidades y Milagros.<br>
+                                            Explanada 200 Millas (Frente del Parque Huáscar.) ovalo las palomas Villa El Salvador.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
