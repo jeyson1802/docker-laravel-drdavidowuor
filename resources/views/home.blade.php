@@ -21,7 +21,7 @@
                 <div class="col-xs-12 col-sm-12 col-md-6">
                     <div class="intro-video">
                         <img class="img-responsive" src="images/intro-video.jpg" alt="" />
-                        <a class="popup" href="https://www.youtube.com/embed/ohiCVWQThaU?autoplay=1&amp;loop=1">
+                        <a class="popup" href="https://www.youtube.com/embed/mw6dcFRVy40?autoplay=1&amp;loop=1">
                             <div class="video-icon">
                                 <i class="fa fa-play"></i>
                             </div>
