@@ -46,7 +46,7 @@
                             <h2 class="schedule-date">Jueves 25 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">9:00 - 14:00</span>
+                                <span class="schedule-slot-time">9:00 a.m - 02:00 p.m</span>
                                 <div class="schedule-slot-info">
                                     <a href="#">
                                         <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
@@ -69,7 +69,7 @@
                             <h2 class="schedule-date">Viernes 26 de Octubre</h2>
 
                             <div class="schedule-listing bg">
-                                <span class="schedule-slot-time">9:00 - 14:00</span>
+                                <span class="schedule-slot-time">9:00 a.m - 02:00 p.m</span>
                                 <div class="schedule-slot-info">
                                     <a href="#">
                                         <img class="schedule-slot-speakers" src="images/speakers/drowuor.jpg" alt="" />
