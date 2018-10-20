@@ -54,7 +54,7 @@
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Conferencia para Pastores, Ministros y Líderes(previo registro y confirmación call center)
+                                            Conferencia para Pastores, Ministros y Líderes del evangelio.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -76,7 +76,7 @@
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Conferencia para Pastores, Ministros y Líderes(previo registro y confirmación call center)
+                                            Conferencia para Pastores, Ministros y Líderes del evangelio.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -98,7 +98,7 @@
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Gran Mega Cruzada de Sanidades y Milagros
+                                            Gran Mega Cruzada de Sanidades y Milagros.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -120,7 +120,7 @@
                                     <div class="schedule-slot-info-content">
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
-                                            Gran Mega Cruzada de Sanidades y Milagros
+                                            Gran Mega Cruzada de Sanidades y Milagros.
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
