@@ -55,7 +55,7 @@
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
                                             Conferencia para Pastores, Ministros y Líderes del evangelio.<br>
-                                            <b>Iglesia Catedral de la Fe ( Av. Guzmán Blanco 350 Cercado de Lima A 2 Cuadras de la Plaza Bolognesi ). Lima - Perú.</b>
+                                            <b>Iglesia Catedral de la Fe ( Av. Guzmán Blanco 350 Cercado de Lima a dos Cuadras de la Plaza Bolognesi ). Lima - Perú.</b>
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -78,7 +78,7 @@
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
                                             Conferencia para Pastores, Ministros y Líderes del evangelio.<br>
-                                            <b>Iglesia Catedral de la Fe ( Av. Guzmán Blanco 350 Cercado de Lima A 2 Cuadras de la Plaza Bolognesi ). Lima - Perú.</b>
+                                            <b>Iglesia Catedral de la Fe ( Av. Guzmán Blanco 350 Cercado de Lima a dos Cuadras de la Plaza Bolognesi ). Lima - Perú.</b>
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -101,7 +101,7 @@
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
                                             Gran Mega Cruzada de Sanidades y Milagros.<br>
-                                            <b>Iglesia Catedral de la Fe ( Av. Guzmán Blanco 350 Cercado de Lima A 2 Cuadras de la Plaza Bolognesi ). Lima - Perú.</b>
+                                            <b>Explanada 200 Millas (Frente del Parque Huáscar.) Óvalo Las Palomas, Villa El Salvador. Lima - Perú.</b>
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
@@ -124,7 +124,7 @@
                                         <h3 class="schedule-slot-title">Evento Principal</h3>
                                         <p class="schedule-slot-desc">
                                             Gran Mega Cruzada de Sanidades y Milagros.<br>
-                                            <b>Explanada 200 Millas (Frente del Parque Huáscar.) ovalo las palomas Villa El Salvador.</b>
+                                            <b>Explanada 200 Millas (Frente del Parque Huáscar.) Óvalo Las Palomas, Villa El Salvador. Lima - Perú.</b>
                                         </p>
                                     </div><!--Info content end -->
                                 </div><!-- Slot info end -->
