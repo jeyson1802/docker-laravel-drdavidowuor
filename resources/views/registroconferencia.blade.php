@@ -36,7 +36,7 @@
                                         <h4>Día y Horario</h4>
                                         <p>25 y 26 de Octubre - 9:00 a.m a 1:00 p.m</p>
                                         <h4>Dirección</h4>
-                                        <p>Iglesia Catedral de la Fe ( Av. Guzmán Blanco 350 Cercado de Lima A 2 Cuadras de la Plaza Bolognesi )</p>                                        
+                                        <p>Iglesia Catedral de la Fe ( Av. Guzmán Blanco 350 Cercado de Lima a dos cuadras de la Plaza Bolognesi )</p>                                        
                                     </div>
                                 </div>
             
