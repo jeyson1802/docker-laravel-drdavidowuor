@@ -64,7 +64,7 @@
                     </table>
                     </div>
                 </div>
-                {{ $conferencia->links() }}
+                {{ $conferencias->links() }}
                 </div>
             </div><!-- Speaker row 1 -->
         </div><!-- Conatiner end -->

@@ -64,7 +64,7 @@
                     </table>
                     </div>
                 </div>
-                {{ $cruzada->links() }}
+                {{ $cruzadas->links() }}
                 </div>
             </div><!-- Speaker row 1 -->
         </div><!-- Conatiner end -->
