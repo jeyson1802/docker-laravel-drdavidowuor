@@ -102,4 +102,9 @@ class CruzadaController extends Controller
         Cruzada::find($id)->delete();
         return redirect()->route('cruzada.index')->with('success','Registro eliminado satisfactoriamente');
     }
+
+    public function exportar()
+    {
+        //
+    }
 }

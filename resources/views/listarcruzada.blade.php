@@ -16,7 +16,7 @@
                     <div class="pull-left"><h3>Lista Inscritos Cruzada</h3></div>
                     <div class="pull-right">
                         <div class="btn-group">
-                        <a href="{{ route('libro.exportar') }}" class="btn btn-primary" >Exportar - $cruzadas->count() <span class="glyphicon glyphicon-save"></span></a>
+                        <a href="{{ route('cruzada.exportar') }}" class="btn btn-primary" >Exportar - $cruzadas->count() <span class="glyphicon glyphicon-save"></span></a>
                         </div>
                     </div>
                     <div class="table-container">

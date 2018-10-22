@@ -101,4 +101,9 @@ class ConferenciaController extends Controller
         Conferencia::find($id)->delete();
         return redirect()->route('conferencia.index')->with('success','Registro eliminado satisfactoriamente');
     }
+
+    public function exportar()
+    {
+        //
+    }
 }
