@@ -10,13 +10,12 @@
     <section id="main-container" class="main-container">
         <div class="container">
             <div class="row">
-            <div class="col-md-8 col-md-offset-2">
                 <div class="panel panel-default">
                     <div class="panel-body">
                     <div class="pull-left"><h3>Lista Inscritos Cruzada</h3></div>
                     <div class="pull-right">
                         <div class="btn-group">
-                        <a href="#" class="btn btn-primary" >Exportar - $cruzadas->count() <span class="glyphicon glyphicon-save"></span></a>
+                        <a href="#" class="btn btn-primary" >Exportar - {{ $cruzadas->count() }} <span class="glyphicon glyphicon-save"></span></a>
                         </div>
                     </div>
                     <div class="table-container">
@@ -65,7 +64,6 @@
                     </div>
                 </div>
                 {{ $cruzadas->links() }}
-                </div>
             </div><!-- Speaker row 1 -->
         </div><!-- Conatiner end -->
     </section><!-- Main container end -->
