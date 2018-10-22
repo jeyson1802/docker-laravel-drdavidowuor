@@ -53,3 +53,6 @@ Route::resource('conferencia', 'ConferenciaController');
 Route::post('sendcontacto', 'ContactoController@sendMailContacto');
 Route::post('sendsuscription', 'ContactoController@sendSuscription');
 
+Route::post('exportar', 'ConferenciaController@exportar');
+Route::post('exportar', 'CruzadaController@exportar');
+
