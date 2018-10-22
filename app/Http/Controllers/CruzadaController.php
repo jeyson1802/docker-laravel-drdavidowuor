@@ -17,7 +17,7 @@ class CruzadaController extends Controller
     public function index()
     {
         
-        $cruzada=Cruzada::orderBy('created_ad','DESC');
+        $cruzada=Cruzada::orderBy('id','DESC')->paginate(3);
         return compact($cruzada);//view('Libro.index',compact('libross')); 
     }
 
