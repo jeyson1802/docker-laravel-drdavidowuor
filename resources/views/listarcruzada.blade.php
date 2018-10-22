@@ -7,9 +7,9 @@
     <div id="page-banner-area" class="page-banner-area">        
     </div><!-- Page Banner end -->
 
-    <div class="row">
-    <section class="content">
-        <div class="col-md-8 col-md-offset-2">
+    <section id="main-container" class="main-container">
+        <div class="container">
+            <div class="row">
                 <div class="panel panel-default">
                     <div class="panel-body">
                     <div class="pull-left"><h3>Lista Inscritos Cruzada</h3></div>
@@ -64,8 +64,8 @@
                     </div>
                 </div>
                 {{ $cruzadas->links() }}
-        </div>
+            </div><!-- Speaker row 1 -->
+        </div><!-- Conatiner end -->
     </section><!-- Main container end -->
-    </div>
 
 @endsection
