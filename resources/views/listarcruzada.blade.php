@@ -45,7 +45,11 @@
                                         <td>{{$cruzada->iglesia}}</td>
                                         <td>{{$cruzada->oracion}}</td>
                                         <td>{{$cruzada->noticias}}</td>  
-                                        <td>                          
+                                        <td>          
+                                        {{ Form::open(array('url' => 'cruzada/' . $cruzada, 'class' => 'pull-right')) }}
+                                            {{ Form::hidden('_method', 'DELETE') }}
+                                            {{ Form::submit('Eliminar', array('class' => 'btn btn-warning')) }}
+                                        {{ Form::close() }}                
                                         <form action="{{action('CruzadaController@destroy', $cruzada)}}" method="post">
                                         {{csrf_field()}}
                                         <input name="_method" type="hidden" value="DELETE">
