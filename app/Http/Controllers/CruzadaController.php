@@ -18,7 +18,7 @@ class CruzadaController extends Controller
     {
         
         $cruzada=Cruzada::orderBy('created_ad','DESC');
-        return $cruzada;//view('Libro.index',compact('libros')); 
+        return $cruzada;//view('Libro.index',compact('libross')); 
     }
 
     /**
