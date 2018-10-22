@@ -46,7 +46,7 @@
                                         <td>{{$conferencia->roliglesia}}</td>
                                         <td>{{$conferencia->noticias}}</td>  
                                         <td>                          
-                                        <form action="{{action('conferenciaController@destroy', $conferencia->id)}}" method="post">
+                                        <form action="{{action('ConferenciaController@destroy', $conferencia->id)}}" method="post">
                                         {{csrf_field()}}
                                         <input name="_method" type="hidden" value="DELETE">
                                         <button class="btn btn-danger btn-xs" type="submit"><span class="glyphicon glyphicon-trash"></span></button>
