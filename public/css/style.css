@@ -2735,3 +2735,7 @@ label {
         background-image:url(../images/banner/banner-desktop.jpg);
     }
 }
+
+.table-responsive {
+    margin-top: 80px;
+}
