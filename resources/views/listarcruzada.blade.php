@@ -18,7 +18,7 @@
                         <a href="#" class="btn btn-primary" >Exportar - {{ $cruzadas->count() }} <span class="glyphicon glyphicon-save"></span></a>
                         </div>
                     </div>
-                    <div class="table-container">
+                    <div class="table-responsive">
                         <table id="mytable" class="table table-bordred table-striped">
                         <thead>
                         <th>Nombres</th>
