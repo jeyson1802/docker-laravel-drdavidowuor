@@ -97,9 +97,9 @@ class CruzadaController extends Controller
      * @param  \App\Cruzada  $cruzada
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy(Cruzada $cruzada)
     {
-        Cruzada::find($id)->delete();
+        Cruzada::find($cruzada->id)->delete();
         return redirect()->route('cruzada.index')->with('success','Registro eliminado satisfactoriamente');
     }
 }
