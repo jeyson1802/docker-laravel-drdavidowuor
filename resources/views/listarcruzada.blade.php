@@ -12,6 +12,11 @@
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <div class="col-md-12">
+                            @if(Session::has('success'))
+                            <div class="alert alert-info">
+                                {{Session::get('success')}}
+                            </div>
+                            @endif
                             <div class="pull-left"><h3>Inscritos Cruzada</h3></div>
                             <div class="pull-right">
                                 <div class="btn-group">

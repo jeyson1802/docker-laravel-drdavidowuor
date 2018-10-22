@@ -12,6 +12,11 @@
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <div class="col-md-12">
+                            @if(Session::has('success'))
+                            <div class="alert alert-info">
+                                {{Session::get('success')}}
+                            </div>
+                            @endif
                             <div class="pull-left"><h3>Inscritos Conferencia</h3></div>
                             <div class="pull-right">
                                 <div class="btn-group">
@@ -46,10 +51,11 @@
                                         <td>{{$conferencia->roliglesia}}</td>
                                         <td>{{$conferencia->noticias}}</td>  
                                         <td>                          
-                                        <form action="{{action('ConferenciaController@destroy', $conferencia->id)}}" method="post">
+                                        <form action="{{action('ConferenciaController@destroy', $conferencia)}}" method="post">
                                         {{csrf_field()}}
                                         <input name="_method" type="hidden" value="DELETE">
                                         <button class="btn btn-danger btn-xs" type="submit"><span class="glyphicon glyphicon-trash"></span></button>
+                                        </form>
                                         </td>
                                     </tr>
                                     @endforeach 

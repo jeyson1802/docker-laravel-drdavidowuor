@@ -96,9 +96,9 @@ class ConferenciaController extends Controller
      * @param  \App\Conferencia  $conferencia
      * @return \Illuminate\Http\Response
      */
-    public function destroy($id)
+    public function destroy(Conferencia $conferencia)
     {
-        Conferencia::find($id)->delete();
+        Conferencia::find($conferencia->id)->delete();
         return redirect()->route('conferencia.index')->with('success','Registro eliminado satisfactoriamente');
     }
 }
