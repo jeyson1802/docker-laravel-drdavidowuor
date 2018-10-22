@@ -16,7 +16,7 @@
                     <div class="pull-left"><h3>Lista Inscritos Conferencia</h3></div>
                     <div class="pull-right">
                         <div class="btn-group">
-                        <a href="{{ route('conferencia.exportar') }}" class="btn btn-primary" >Exportar - $conferencias->count() <span class="glyphicon glyphicon-save"></span></a>
+                        <a href="#" class="btn btn-primary" >Exportar - $conferencias->count() <span class="glyphicon glyphicon-save"></span></a>
                         </div>
                     </div>
                     <div class="table-container">
