@@ -12,10 +12,10 @@
                 <div class="panel panel-default">
                     <div class="panel-body">
                     <div class="col-md-12">
-                        <div class="pull-left"><h3>Lista Inscritos Cruzada</h3></div>
+                        <div class="pull-left"><h3>Inscritos Cruzada</h3></div>
                         <div class="pull-right">
                             <div class="btn-group">
-                            <a href="#" class="btn btn-primary" >Exportar - {{ $cruzadas->count() }} <span class="glyphicon glyphicon-save"></span></a>
+                            <a href="#" class="btn btn-primary" >Exportar <span class="glyphicon glyphicon-save"></span></a>
                             </div>
                         </div>
                         <div class="table-responsive">
