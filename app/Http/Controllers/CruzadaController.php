@@ -17,8 +17,8 @@ class CruzadaController extends Controller
     public function index()
     {
         
-        $cruzada=Cruzada::orderBy('id','DESC')->paginate(3);
-        return compact($cruzada);//view('Libro.index',compact('libross')); 
+        $cruzadas=Cruzada::orderBy('id','DESC')->paginate(10);
+        return view('listarcruzada', compact('cruzadas')); 
     }
 
     /**
@@ -97,8 +97,9 @@ class CruzadaController extends Controller
      * @param  \App\Cruzada  $cruzada
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Cruzada $cruzada)
+    public function destroy($id)
     {
-        //
+        Cruzada::find($id)->delete();
+        return redirect()->route('cruzada.index')->with('success','Registro eliminado satisfactoriamente');
     }
 }

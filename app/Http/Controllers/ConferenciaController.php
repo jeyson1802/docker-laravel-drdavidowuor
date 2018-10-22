@@ -16,7 +16,8 @@ class ConferenciaController extends Controller
      */
     public function index()
     {
-        //
+        $conferencias=Conferencia::orderBy('id','DESC')->paginate(10);
+        return view('listarconferencia', compact('conferencias')); 
     }
 
     /**
@@ -95,8 +96,9 @@ class ConferenciaController extends Controller
      * @param  \App\Conferencia  $conferencia
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Conferencia $conferencia)
+    public function destroy($id)
     {
-        //
+        Conferencia::find($id)->delete();
+        return redirect()->route('conferencia.index')->with('success','Registro eliminado satisfactoriamente');
     }
 }
