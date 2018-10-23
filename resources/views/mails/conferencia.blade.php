@@ -8,6 +8,6 @@
 <body>
     <p>Hola! {{ $conferencia->nombres }} {{ $conferencia->apellidos }}</p>
     <p>Sus datos han sido registrados para la conferencia con éxito.</p>
-    <img src="{{ $message->embed(public_path() . '/images/email.jpg') }}" />
+    <img src="{{ $message->embed(public_path() . '/images/email-conferencia.png') }}" />
 </body>
 </html>
